@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>All Registered Polls for the European Parliament</title>
+    <link>https://filipvanlaenen.github.io/luxembourg_ep_polls</link>
+    <description>All Registered Polls for the European Parliament</description>
+    <pubDate>Sat, 12 May 2018 10:04:32 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by TNS for Luxemburger Wort and RTL, 1 December 2017 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/luxembourg_ep_polls/2017-12-01-TNS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Chrëschtlech-Sozial Vollekspartei (EPP): 34.5–38.9%&lt;/li&gt;&lt;li&gt;Lëtzebuerger Sozialistesch Aarbechterpartei (S&amp;amp;D): 18.8–22.5%&lt;/li&gt;&lt;li&gt;Demokratesch Partei (ALDE): 8.7–11.5%&lt;/li&gt;&lt;li&gt;déi gréng (Greens/EFA): 9.3–12.2%&lt;/li&gt;&lt;li&gt;Alternativ Demokratesch Reformpartei (ECR): 6.8–9.3%&lt;/li&gt;&lt;li&gt;Déi Lénk (GUE/NGL): 6.6–9.0%&lt;/li&gt;&lt;li&gt;Piratepartei Lëtzebuerg (Greens/EFA): 2.3–3.9%&lt;/li&gt;&lt;li&gt;Partei fir Integral Demokratie (*): 0.7–1.7%&lt;/li&gt;&lt;li&gt;Kommunistesch Partei Lëtzebuerg (*): 1.6–3.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/luxembourg_ep_polls/2017-12-01-TNS.png"
+        length="244446"
+        type="image/png"/>
+      <pubDate>Sat, 12 May 2018 10:04:32 +0200</pubDate>
+      <dc:date>2018-05-12T10:04:32.525832+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ifop for Tageblatt, 9–19 October 2017 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/luxembourg_ep_polls/2017-10-19-Ifop.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Chrëschtlech-Sozial Vollekspartei (EPP): 3 seats&lt;/li&gt;&lt;li&gt;Lëtzebuerger Sozialistesch Aarbechterpartei (S&amp;amp;D): 1 seats&lt;/li&gt;&lt;li&gt;Demokratesch Partei (ALDE): 1 seats&lt;/li&gt;&lt;li&gt;déi gréng (Greens/EFA): 1 seats&lt;/li&gt;&lt;li&gt;Alternativ Demokratesch Reformpartei (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Déi Lénk (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Piratepartei Lëtzebuerg (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Partei fir Integral Demokratie (*): 0 seats&lt;/li&gt;&lt;li&gt;Kommunistesch Partei Lëtzebuerg (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/luxembourg_ep_polls/2017-10-19-Ifop-seats.png"
+        length="157300"
+        type="image/png"/>
+      <pubDate>Sat, 12 May 2018 09:28:16 +0200</pubDate>
+      <dc:date>2018-05-12T09:28:16.111257+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ifop for Tageblatt, 9–19 October 2017 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/luxembourg_ep_polls/2017-10-19-Ifop.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/luxembourg_ep_polls/2017-10-19-Ifop-coalitions-seats.png"
+        length="66955"
+        type="image/png"/>
+      <pubDate>Sat, 12 May 2018 09:28:16 +0200</pubDate>
+      <dc:date>2018-05-12T09:28:16.111257+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ifop for Tageblatt, 9–19 October 2017 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/luxembourg_ep_polls/2017-10-19-Ifop.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Chrëschtlech-Sozial Vollekspartei (EPP): 35.8–42.4%&lt;/li&gt;&lt;li&gt;Lëtzebuerger Sozialistesch Aarbechterpartei (S&amp;amp;D): 12.7–17.6%&lt;/li&gt;&lt;li&gt;Demokratesch Partei (ALDE): 10.9–15.5%&lt;/li&gt;&lt;li&gt;déi gréng (Greens/EFA): 10.9–15.5%&lt;/li&gt;&lt;li&gt;Alternativ Demokratesch Reformpartei (ECR): 6.3–10.0%&lt;/li&gt;&lt;li&gt;Déi Lénk (GUE/NGL): 4.6–7.9%&lt;/li&gt;&lt;li&gt;Piratepartei Lëtzebuerg (Greens/EFA): 2.1–4.4%&lt;/li&gt;&lt;li&gt;Partei fir Integral Demokratie (*): 0.5–1.9%&lt;/li&gt;&lt;li&gt;Kommunistesch Partei Lëtzebuerg (*): 0.5–1.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/luxembourg_ep_polls/2017-10-19-Ifop.png"
+        length="254656"
+        type="image/png"/>
+      <pubDate>Sat, 12 May 2018 09:28:16 +0200</pubDate>
+      <dc:date>2018-05-12T09:28:16.111257+02:00</dc:date>
+    </item>
+    <dc:date>2018-05-12T10:04:32.525832+02:00</dc:date>
+  </channel>
+</rss>
