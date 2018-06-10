@@ -10,7 +10,7 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Sat, 12 May 2018 10:16:24 +0200</pubDate>
     <item>
-      <title>Opinion Poll by TNS for Luxemburger Wort and RTL, 1 December 2017 – Seat Projections</title>
+      <title>Opinion Poll by TNS for Luxemburger Wort and RTL, 1 December 2017 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/luxembourg_ep_polls/2017-12-01-TNS.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Chrëschtlech-Sozial Vollekspartei (EPP): 3 seats&lt;/li&gt;&lt;li&gt;Lëtzebuerger Sozialistesch Aarbechterpartei (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Demokratesch Partei (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;déi gréng (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Alternativ Demokratesch Reformpartei (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Déi Lénk (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Piratepartei Lëtzebuerg (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Partei fir Integral Demokratie (*): 0 seats&lt;/li&gt;&lt;li&gt;Kommunistesch Partei Lëtzebuerg (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/luxembourg_ep_polls/2017-12-01-TNS-seats.png"
@@ -24,7 +24,7 @@
       <link>https://filipvanlaenen.github.io/luxembourg_ep_polls/2017-12-01-TNS.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/luxembourg_ep_polls/2017-12-01-TNS-coalitions-seats.png"
-        length="137756"
+        length="137655"
         type="image/png"/>
       <pubDate>Sat, 12 May 2018 10:16:24 +0200</pubDate>
       <dc:date>2018-05-12T10:16:24.851957+02:00</dc:date>
@@ -40,7 +40,7 @@
       <dc:date>2018-05-12T10:16:24.851957+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ifop for Tageblatt, 9–19 October 2017 – Seat Projections</title>
+      <title>Opinion Poll by Ifop for Tageblatt, 9–19 October 2017 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/luxembourg_ep_polls/2017-10-19-Ifop.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Chrëschtlech-Sozial Vollekspartei (EPP): 3 seats&lt;/li&gt;&lt;li&gt;Lëtzebuerger Sozialistesch Aarbechterpartei (S&amp;amp;D): 1 seats&lt;/li&gt;&lt;li&gt;Demokratesch Partei (ALDE): 1 seats&lt;/li&gt;&lt;li&gt;déi gréng (Greens/EFA): 1 seats&lt;/li&gt;&lt;li&gt;Alternativ Demokratesch Reformpartei (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Déi Lénk (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Piratepartei Lëtzebuerg (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Partei fir Integral Demokratie (*): 0 seats&lt;/li&gt;&lt;li&gt;Kommunistesch Partei Lëtzebuerg (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/luxembourg_ep_polls/2017-10-19-Ifop-seats.png"
@@ -54,7 +54,7 @@
       <link>https://filipvanlaenen.github.io/luxembourg_ep_polls/2017-10-19-Ifop.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/luxembourg_ep_polls/2017-10-19-Ifop-coalitions-seats.png"
-        length="66955"
+        length="66907"
         type="image/png"/>
       <pubDate>Sat, 12 May 2018 09:28:16 +0200</pubDate>
       <dc:date>2018-05-12T09:28:16.111257+02:00</dc:date>
