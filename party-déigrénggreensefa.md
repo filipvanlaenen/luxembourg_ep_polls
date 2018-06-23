@@ -10,7 +10,8 @@ Last result: **15.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11.7% | 10.1–14.1% | 9.8–14.7% | 9.5–15.1% | 9.1–16.0% |
+| N/A | [Poll Average](average.html) | 12.0% | 11.3–12.7% | 11.1–12.9% | 11.0–13.1% | 10.7–13.5% |
+| [1 December 2017–31 May 2018](2018-05-31-TNS.html) | TNS <br> Luxemburger Wort and RTL | 12.0% | 11.3–12.7% | 11.1–13.0% | 11.0–13.1% | 10.7–13.5% |
 | [1 December 2017](2017-12-01-TNS.html) | TNS <br> Luxemburger Wort and RTL | 10.7% | 9.8–11.7% | 9.5–11.9% | 9.3–12.2% | 8.9–12.7% |
 | [9–19 October 2017](2017-10-19-Ifop.html) | Ifop <br> Tageblatt | 13.1% | 11.7–14.7% | 11.3–15.1% | 10.9–15.5% | 10.3–16.3% |
 
@@ -20,17 +21,13 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 7.5–8.5% | 0% | 100% |  |
-| 8.5–9.5% | 3% | 100% |  |
-| 9.5–10.5% | 19% | 97% |  |
-| 10.5–11.5% | 27% | 79% |  |
-| 11.5–12.5% | 17% | 52% | Median |
-| 12.5–13.5% | 17% | 35% |  |
-| 13.5–14.5% | 12% | 18% |  |
-| 14.5–15.5% | 5% | 6% | Last Result |
-| 15.5–16.5% | 1.1% | 1.2% |  |
-| 16.5–17.5% | 0.1% | 0.2% |  |
-| 17.5–18.5% | 0% | 0% |  |
+| 8.5–9.5% | 0% | 100% |  |
+| 9.5–10.5% | 0.2% | 100% |  |
+| 10.5–11.5% | 19% | 99.8% |  |
+| 11.5–12.5% | 63% | 81% | Median |
+| 12.5–13.5% | 17% | 18% |  |
+| 13.5–14.5% | 0.4% | 0.4% |  |
+| 14.5–15.5% | 0% | 0% | Last Result |
 
 
 ## Seats
@@ -41,7 +38,8 @@ Last result: **1** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1 | 1 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 1 |
+| [1 December 2017–31 May 2018](2018-05-31-TNS.html) | TNS <br> Luxemburger Wort and RTL | 1 | 1 | 1 | 1 | 1 |
 | [1 December 2017](2017-12-01-TNS.html) | TNS <br> Luxemburger Wort and RTL | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [9–19 October 2017](2017-10-19-Ifop.html) | Ifop <br> Tageblatt | 1 | 1 | 1 | 1 | 1 |
 
@@ -53,8 +51,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 4% | 100% |  |
-| 1 | 96% | 96% | Last Result, Median |
+| 0 | 0.4% | 100% |  |
+| 1 | 99.6% | 99.6% | Last Result, Median |
 | 2 | 0% | 0% |  |
 
 
