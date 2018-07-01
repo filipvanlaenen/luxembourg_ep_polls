@@ -159,8 +159,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 98.5% | 100% | Last Result, Median |
-| 4 | 1.5% | 1.5% | Majority |
+| 3 | 98% | 100% | Last Result, Median |
+| 4 | 2% | 2% | Majority |
 | 5 | 0% | 0% |  |
 
 ### déi gréng (Greens/EFA)
@@ -171,8 +171,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 1.5% | 100% |  |
-| 1 | 98.5% | 98.5% | Last Result, Median |
+| 0 | 2% | 100% |  |
+| 1 | 98% | 98% | Last Result, Median |
 | 2 | 0% | 0% |  |
 
 ### Demokratesch Partei (ALDE)
@@ -224,7 +224,7 @@ Only polls for which at least the sample size has been published are included in
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Chrëschtlech-Sozial Vollekspartei (EPP) | 3 | 3 | 1.5% | 3 | 3 | 3 | 3–4 |
+| Chrëschtlech-Sozial Vollekspartei (EPP) | 3 | 3 | 2% | 3 | 3 | 3 | 3–4 |
 | Demokratesch Partei (ALDE) | 1 | 1 | 0% | 1 | 1 | 1 | 1 |
 | Lëtzebuerger Sozialistesch Aarbechterpartei (S&D) | 1 | 1 | 0% | 1 | 1 | 1 | 1 |
 | déi gréng (Greens/EFA) – Piratepartei Lëtzebuerg (Greens/EFA) | 1 | 1 | 0% | 1 | 1 | 1 | 0–1 |
@@ -236,8 +236,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 98.5% | 100% | Last Result, Median |
-| 4 | 1.5% | 1.5% | Majority |
+| 3 | 98% | 100% | Last Result, Median |
+| 4 | 2% | 2% | Majority |
 | 5 | 0% | 0% |  |
 
 ### Demokratesch Partei (ALDE)
@@ -256,8 +256,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 1.5% | 100% |  |
-| 1 | 98.5% | 98.5% | Last Result, Median |
+| 0 | 2% | 100% |  |
+| 1 | 98% | 98% | Last Result, Median |
 | 2 | 0% | 0% |  |
 
 ### Alternativ Demokratesch Reformpartei (ECR)
