@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/luxembourg_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 25 Jun 2018 22:23:09 +0200</pubDate>
+    <pubDate>Sat, 30 Jun 2018 23:15:48 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by TNS for Luxemburger Wort and RTL, 1 December 2017–31 May 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/luxembourg_ep_polls/2018-05-31-TNS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Chrëschtlech-Sozial Vollekspartei (EPP): 3 seats&lt;/li&gt;&lt;li&gt;Lëtzebuerger Sozialistesch Aarbechterpartei (S&amp;amp;D): 1 seats&lt;/li&gt;&lt;li&gt;Demokratesch Partei (ALDE): 1 seats&lt;/li&gt;&lt;li&gt;déi gréng (Greens/EFA): 1 seats&lt;/li&gt;&lt;li&gt;Alternativ Demokratesch Reformpartei (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Déi Lénk (GUE/NGL): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/luxembourg_ep_polls/2018-05-31-TNS-seats.png"
+        length="122987"
+        type="image/png"/>
+      <pubDate>Sat, 30 Jun 2018 23:15:48 +0200</pubDate>
+      <dc:date>2018-06-30T23:15:48.656898+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by TNS for Luxemburger Wort and RTL, 1 December 2017–31 May 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/luxembourg_ep_polls/2018-05-31-TNS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/luxembourg_ep_polls/2018-05-31-TNS-coalitions-seats.png"
+        length="71256"
+        type="image/png"/>
+      <pubDate>Sat, 30 Jun 2018 23:15:48 +0200</pubDate>
+      <dc:date>2018-06-30T23:15:48.656898+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by TNS for Luxemburger Wort and RTL, 1 December 2017–31 May 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/luxembourg_ep_polls/2018-05-31-TNS.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/luxembourg_ep_polls/2018-05-31-TNS.png"
         length="168281"
         type="image/png"/>
-      <pubDate>Mon, 25 Jun 2018 22:23:09 +0200</pubDate>
-      <dc:date>2018-06-25T22:23:09.453978+02:00</dc:date>
+      <pubDate>Sat, 30 Jun 2018 23:15:48 +0200</pubDate>
+      <dc:date>2018-06-30T23:15:48.656898+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by TNS for Luxemburger Wort and RTL, 1 December 2017 – Seat Projections for the Parties</title>
@@ -79,6 +99,6 @@
       <pubDate>Sat, 12 May 2018 09:28:16 +0200</pubDate>
       <dc:date>2018-05-12T09:28:16.111257+02:00</dc:date>
     </item>
-    <dc:date>2018-06-25T22:23:09.453978+02:00</dc:date>
+    <dc:date>2018-06-30T23:15:48.656898+02:00</dc:date>
   </channel>
 </rss>
