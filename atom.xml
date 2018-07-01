@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/luxembourg_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2018-05-12T10:16:24.851957+02:00</updated>
+  <updated>2018-06-30T23:15:48.656898+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Chrëschtlech-Sozial Vollekspartei (EPP): 41.4–44.6%, 3 seats</li><li>Lëtzebuerger Sozialistesch Aarbechterpartei (S&amp;D): 13.9–16.2%, 1 seats</li><li>Demokratesch Partei (ALDE): 15.8–18.3%, 1 seats</li><li>déi gréng (Greens/EFA): 11.0–13.1%, 1 seats</li><li>Alternativ Demokratesch Reformpartei (ECR): 7.1–9.0%, 0 seats</li><li>Déi Lénk (GUE/NGL): 4.3–5.8%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/luxembourg_ep_polls/2018-05-31-TNS.html</id>
+    <link href="https://filipvanlaenen.github.io/luxembourg_ep_polls/2018-05-31-TNS.html"/>
+    <title>Opinion Poll by TNS for Luxemburger Wort and RTL, 1 December 2017–31 May 2018</title>
+    <updated>2018-06-30T23:15:48.656898+02:00</updated>
+    <dc:date>2018-06-30T23:15:48.656898+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Chrëschtlech-Sozial Vollekspartei (EPP): 34.5–38.9%, 3 seats</li><li>Lëtzebuerger Sozialistesch Aarbechterpartei (S&amp;D): 18.8–22.5%, 1–2 seats</li><li>Demokratesch Partei (ALDE): 8.7–11.5%, 0–1 seats</li><li>déi gréng (Greens/EFA): 9.3–12.2%, 0–1 seats</li><li>Alternativ Demokratesch Reformpartei (ECR): 6.8–9.3%, 0 seats</li><li>Déi Lénk (GUE/NGL): 6.6–9.0%, 0 seats</li><li>Piratepartei Lëtzebuerg (Greens/EFA): 2.3–3.9%, 0 seats</li><li>Partei fir Integral Demokratie (*): 0.7–1.7%, 0 seats</li><li>Kommunistesch Partei Lëtzebuerg (*): 1.6–3.0%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/luxembourg_ep_polls/2017-12-01-TNS.html</id>
@@ -23,5 +31,5 @@
     <updated>2018-05-12T09:28:16.111257+02:00</updated>
     <dc:date>2018-05-12T09:28:16.111257+02:00</dc:date>
   </entry>
-  <dc:date>2018-05-12T10:16:24.851957+02:00</dc:date>
+  <dc:date>2018-06-30T23:15:48.656898+02:00</dc:date>
 </feed>
