@@ -234,6 +234,8 @@ Only polls for which at least the sample size has been published are included in
 
 ### Chrëschtlech-Sozial Vollekspartei (EPP)
 
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-csv.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 98% | 100% | Last Result, Median |
@@ -242,17 +244,23 @@ Only polls for which at least the sample size has been published are included in
 
 ### Demokratesch Partei (ALDE)
 
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-dp.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 100% | 100% | Last Result, Median |
 
 ### Lëtzebuerger Sozialistesch Aarbechterpartei (S&D)
 
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-lsap.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 100% | 100% | Last Result, Median |
 
 ### déi gréng (Greens/EFA) – Piratepartei Lëtzebuerg (Greens/EFA)
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-dg–pplu.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -262,17 +270,23 @@ Only polls for which at least the sample size has been published are included in
 
 ### Alternativ Demokratesch Reformpartei (ECR)
 
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-adr.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 100% | 100% | Last Result, Median |
 
 ### Déi Lénk (GUE/NGL)
 
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-dl.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 100% | 100% | Last Result, Median |
 
 ### Partei fir Integral Demokratie (*) – Kommunistesch Partei Lëtzebuerg (*)
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-pid–kpl.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -281,3 +295,7 @@ Only polls for which at least the sample size has been published are included in
 
 ## Technical Information
 
++ **Number of polls included in this average:** 1
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 1,048,576
++ **Error estimate:** 0.62%
