@@ -26,6 +26,7 @@ The following websites provide similar information to this website:
 + [Belgian Polls](https://filipvanlaenen.github.io/belgian_polls/)
 + [British Polls](https://filipvanlaenen.github.io/british_polls/)
 + [Catalonian Polls](https://filipvanlaenen.github.io/catalonian_polls/)
++ [Estonian Polls](https://filipvanlaenen.github.io/estonian_polls/) and [Estonian EP Polls](https://filipvanlaenen.github.io/estonian_ep_polls/)
 + [Flemish Polls](https://filipvanlaenen.github.io/flemish_polls/) and [Flemish EP Polls](https://filipvanlaenen.github.io/flemish_ep_polls/)
 + [German EP Polls](https://filipvanlaenen.github.io/german_ep_polls/)
 + [Hungarian Polls](https://filipvanlaenen.github.io/hungarian_polls/) and [Hungarian EP Polls](https://filipvanlaenen.github.io/hungarian_ep_polls/)
