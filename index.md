@@ -6,7 +6,7 @@ The table below lists the most recent polls (less than 180 days old) registered 
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 37.6% <br> 3 | 15.0% <br> 1 | 14.8% <br> 1 | 11.8% <br> 1 | 7.5% <br> 0 | 5.8% <br> 0 | 4.2% <br> 0 | 1.8% <br> 0 | 1.5% <br> 0 |
 | N/A | [Poll Average](average.html) | 41–45% <br> 3 | 11–13% <br> 1 | 16–18% <br> 1 | 14–16% <br> 1 | 7–9% <br> 0 | 4–6% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [26 September–1 October 2018](2018-10-01-TNS.html) | TNS <br> Luxemburger Wort and RTL | 42–49% <br> 3–4 | 7–11% <br> 0 | 19–25% <br> 1–2 | 12–17% <br> 1 | 2–4% <br> 0 | 2–4% <br> 0 | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A |
+| [1 December 2017–31 May 2018](2018-05-31-TNS.html) | TNS <br> Luxemburger Wort and RTL | 41–45% <br> 3 | 11–13% <br> 1 | 16–18% <br> 1 | 14–16% <br> 1 | 7–9% <br> 0 | 4–6% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | 25 May 2014 | General Election | 37.6% <br> 3 | 15.0% <br> 1 | 14.8% <br> 1 | 11.8% <br> 1 | 7.5% <br> 0 | 5.8% <br> 0 | 4.2% <br> 0 | 1.8% <br> 0 | 1.5% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
