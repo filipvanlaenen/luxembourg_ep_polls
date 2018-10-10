@@ -11,7 +11,6 @@ Last result: **11.8%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 15.0% | 14.2–15.8% | 14.0–16.0% | 13.9–16.2% | 13.5–16.6% |
-| [26 September–1 October 2018](2018-10-01-TNS.html) | TNS <br> Luxemburger Wort and RTL | 14.3% | 12.7–16.0% | 12.3–16.6% | 11.9–17.0% | 11.2–17.9% |
 | [1 December 2017–31 May 2018](2018-05-31-TNS.html) | TNS <br> Luxemburger Wort and RTL | 15.0% | 14.2–15.8% | 14.0–16.0% | 13.9–16.2% | 13.5–16.6% |
 | [1 December 2017](2017-12-01-TNS.html) | TNS <br> Luxemburger Wort and RTL | 20.6% | 19.4–21.9% | 19.1–22.2% | 18.8–22.5% | 18.2–23.1% |
 | [9–19 October 2017](2017-10-19-Ifop.html) | Ifop <br> Tageblatt | 15.0% | 13.5–16.7% | 13.1–17.2% | 12.7–17.6% | 12.0–18.4% |
@@ -40,7 +39,6 @@ Last result: **1** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 1 |
-| [26 September–1 October 2018](2018-10-01-TNS.html) | TNS <br> Luxemburger Wort and RTL | 1 | 1 | 1 | 1 | 1 |
 | [1 December 2017–31 May 2018](2018-05-31-TNS.html) | TNS <br> Luxemburger Wort and RTL | 1 | 1 | 1 | 1 | 1 |
 | [1 December 2017](2017-12-01-TNS.html) | TNS <br> Luxemburger Wort and RTL | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [9–19 October 2017](2017-10-19-Ifop.html) | Ifop <br> Tageblatt | 1 | 1 | 1 | 1 | 1 |
