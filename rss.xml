@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>All Registered Polls for the European Parliament</title>
+    <link>https://filipvanlaenen.github.io/luxembourg_ep_polls</link>
+    <description>All Registered Polls for the European Parliament</description>
+    <pubDate>Wed, 18 Dec 2019 22:57:21 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Kantar for Luxemburger Wort and RTL, 14–23 November 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/luxembourg_ep_polls/2019-11-23-Kantar.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Chrëschtlech-Sozial Vollekspartei (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Lëtzebuerger Sozialistesch Aarbechterpartei (S&amp;amp;D): 1 seats&lt;/li&gt;&lt;li&gt;Demokratesch Partei (RE): 1 seats&lt;/li&gt;&lt;li&gt;déi gréng (Greens/EFA): 1 seats&lt;/li&gt;&lt;li&gt;Alternativ Demokratesch Reformpartei (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Déi Lénk (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Piratepartei Lëtzebuerg (Greens/EFA): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/luxembourg_ep_polls/2019-11-23-Kantar-seats.png"
+        length="185426"
+        type="image/png"/>
+      <pubDate>Wed, 18 Dec 2019 22:57:21 +0100</pubDate>
+      <dc:date>2019-12-18T22:57:21.659807+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar for Luxemburger Wort and RTL, 14–23 November 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/luxembourg_ep_polls/2019-11-23-Kantar.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/luxembourg_ep_polls/2019-11-23-Kantar-coalitions-seats.png"
+        length="107984"
+        type="image/png"/>
+      <pubDate>Wed, 18 Dec 2019 22:57:21 +0100</pubDate>
+      <dc:date>2019-12-18T22:57:21.659807+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar for Luxemburger Wort and RTL, 14–23 November 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/luxembourg_ep_polls/2019-11-23-Kantar.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Chrëschtlech-Sozial Vollekspartei (EPP): 28.1–32.3%&lt;/li&gt;&lt;li&gt;Lëtzebuerger Sozialistesch Aarbechterpartei (S&amp;amp;D): 13.5–16.7%&lt;/li&gt;&lt;li&gt;Demokratesch Partei (RE): 15.0–18.4%&lt;/li&gt;&lt;li&gt;déi gréng (Greens/EFA): 14.3–17.7%&lt;/li&gt;&lt;li&gt;Alternativ Demokratesch Reformpartei (ECR): 9.1–11.9%&lt;/li&gt;&lt;li&gt;Déi Lénk (GUE/NGL): 4.5–6.6%&lt;/li&gt;&lt;li&gt;Piratepartei Lëtzebuerg (Greens/EFA): 4.4–6.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/luxembourg_ep_polls/2019-11-23-Kantar.png"
+        length="215747"
+        type="image/png"/>
+      <pubDate>Wed, 18 Dec 2019 22:57:21 +0100</pubDate>
+      <dc:date>2019-12-18T22:57:21.659807+01:00</dc:date>
+    </item>
+    <dc:date>2019-12-18T22:57:21.659807+01:00</dc:date>
+  </channel>
+</rss>
