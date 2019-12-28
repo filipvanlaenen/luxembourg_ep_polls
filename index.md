@@ -19,7 +19,7 @@ Only polls for which at least the sample size has been published are included in
 + **DP:** Demokratesch Partei (RE)
 + **LSAP:** Lëtzebuerger Sozialistesch Aarbechterpartei (S&D)
 + **ADR:** Alternativ Demokratesch Reformpartei (ECR)
-+ **DL:** Déi Lénk (GUE/NGL)
++ **DL:** déi Lénk (GUE/NGL)
 + **PPLU:** Piratepartei Lëtzebuerg (Greens/EFA)
 + **PID:** Partei fir Integral Demokratie (*)
 + **KPL:** Kommunistesch Partei Lëtzebuerg (*)
