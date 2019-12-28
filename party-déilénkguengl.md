@@ -1,4 +1,4 @@
-# Déi Lénk (GUE/NGL)
+# déi Lénk (GUE/NGL)
 
 <p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a></p>
 
@@ -15,7 +15,7 @@ Last result: **5.8%** (General Election of 26 May 2019)
 
 ### Probability Mass Function
 
-The following table shows the probability mass function per percentage block of voting intentions for the [poll average](average.html) for Déi Lénk (GUE/NGL).
+The following table shows the probability mass function per percentage block of voting intentions for the [poll average](average.html) for déi Lénk (GUE/NGL).
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
@@ -42,7 +42,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 ![Graph with seats probability mass function not yet produced](average-seats-pmf-déilénkguengl.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average.html) for Déi Lénk (GUE/NGL).
+The following table shows the probability mass function per seat for the [poll average](average.html) for déi Lénk (GUE/NGL).
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
