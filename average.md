@@ -192,8 +192,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 97% | 100% | Median |
-| 3 | 3% | 3% | Last Result |
+| 2 | 96% | 100% | Median |
+| 3 | 4% | 4% | Last Result |
 | 4 | 0% | 0% | Majority |
 
 ### déi gréng (Greens/EFA)
@@ -238,8 +238,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 98% | 100% | Last Result, Median |
-| 1 | 2% | 2% |  |
+| 0 | 99.2% | 100% | Last Result, Median |
+| 1 | 0.8% | 0.8% |  |
 | 2 | 0% | 0% |  |
 
 ### déi Lénk (GUE/NGL)
@@ -297,8 +297,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 97% | 100% | Median |
-| 3 | 3% | 3% | Last Result |
+| 2 | 96% | 100% | Median |
+| 3 | 4% | 4% | Last Result |
 | 4 | 0% | 0% | Majority |
 
 ### Demokratesch Partei (RE)
@@ -335,8 +335,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 98% | 100% | Last Result, Median |
-| 1 | 2% | 2% |  |
+| 0 | 99.2% | 100% | Last Result, Median |
+| 1 | 0.8% | 0.8% |  |
 | 2 | 0% | 0% |  |
 
 ### Partei fir Integral Demokratie (*) – Kommunistesch Partei Lëtzebuerg (*)
@@ -359,6 +359,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 1
-+ **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 131,072
-+ **Error estimate:** 1.01%
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 1,048,576
++ **Error estimate:** 0.41%
