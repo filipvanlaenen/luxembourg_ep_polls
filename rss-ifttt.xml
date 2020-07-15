@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>All Registered Polls for the European Parliament</title>
+    <link>null</link>
+    <description>All Registered Polls for the European Parliament</description>
+    <pubDate>Sun, 23 Jun 2019 13:44:09 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Kantar for Luxemburger Wort and RTL, 8–24 June 2020 – Voting Intentions</title>
+      <link>null/2020-06-24-Kantar.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Kantar for Luxemburger Wort and RTL, 8–24 June 2020<br/><img src="null/2020-06-24-Kantar.png"/><br/>Details on null/2020-06-24-Kantar.html]]></description>
+      <enclosure url="null/2020-06-24-Kantar.png" length="281898" type="image/png"/>
+      <pubDate>Mon, 6 Jul 2020 22:36:19 +0200</pubDate>
+      <dc:date>2020-07-06T22:36:19.879652+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar for Luxemburger Wort and RTL, 14–23 November 2019 – Voting Intentions</title>
+      <link>null/2019-11-23-Kantar.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Kantar for Luxemburger Wort and RTL, 14–23 November 2019<br/><img src="null/2019-11-23-Kantar.png"/><br/>Details on null/2019-11-23-Kantar.html]]></description>
+      <enclosure url="null/2019-11-23-Kantar.png" length="215747" type="image/png"/>
+      <pubDate>Wed, 18 Dec 2019 22:57:21 +0100</pubDate>
+      <dc:date>2019-12-18T22:57:21.659807+01:00</dc:date>
+    </item>
+  </channel>
+</rss>
