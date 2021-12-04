@@ -10,7 +10,9 @@ Last result: **11.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18.1% | 15.7–20.6% | 15.3–21.0% | 15.0–21.4% | 14.5–22.0% |
+| N/A | [Poll Average](average.html) | 20.2% | 19.1–21.5% | 18.8–21.8% | 18.5–22.1% | 17.9–22.7% |
+| [10–24 November 2021](2021-11-24-TNSIlresandKantarPublic.html) | TNS Ilres and Kantar Public <br> Luxemburger Wort and RTL | 20.2% | 19.1–21.5% | 18.7–21.8% | 18.5–22.1% | 17.9–22.7% |
+| [9–21 June 2021](2021-06-21-TNSIlresandKantarPublic.html) | TNS Ilres and Kantar Public <br> Luxemburger Wort and RTL | 17.8% | 16.7–19.0% | 16.4–19.3% | 16.1–19.6% | 15.6–20.2% |
 | [10–24 November 2020](2020-11-24-TNSIlresandKantarPublic.html) | TNS Ilres and Kantar Public <br> Luxemburger Wort and RTL | 19.8% | 18.7–21.0% | 18.3–21.4% | 18.0–21.7% | 17.5–22.3% |
 | [8–24 June 2020](2020-06-24-Kantar.html) | Kantar <br> Luxemburger Wort and RTL | 16.4% | 15.3–17.6% | 15.0–17.9% | 14.8–18.2% | 14.3–18.7% |
 | [14–23 November 2019](2019-11-23-Kantar.html) | Kantar <br> Luxemburger Wort and RTL | 15.0% | 14.0–16.1% | 13.7–16.4% | 13.5–16.7% | 13.0–17.3% |
@@ -23,16 +25,16 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 11.5–12.5% | 0% | 100% | Last Result |
 | 12.5–13.5% | 0% | 100% |  |
-| 13.5–14.5% | 0.6% | 100% |  |
-| 14.5–15.5% | 7% | 99.3% |  |
-| 15.5–16.5% | 20% | 92% |  |
-| 16.5–17.5% | 17% | 72% |  |
-| 17.5–18.5% | 8% | 55% | Median |
-| 18.5–19.5% | 16% | 46% |  |
-| 19.5–20.5% | 20% | 31% |  |
-| 20.5–21.5% | 9% | 11% |  |
-| 21.5–22.5% | 2% | 2% |  |
-| 22.5–23.5% | 0.1% | 0.1% |  |
+| 13.5–14.5% | 0% | 100% |  |
+| 14.5–15.5% | 0% | 100% |  |
+| 15.5–16.5% | 0% | 100% |  |
+| 16.5–17.5% | 0.1% | 100% |  |
+| 17.5–18.5% | 3% | 99.9% |  |
+| 18.5–19.5% | 20% | 97% |  |
+| 19.5–20.5% | 40% | 77% | Median |
+| 20.5–21.5% | 29% | 37% |  |
+| 21.5–22.5% | 7% | 8% |  |
+| 22.5–23.5% | 0.7% | 0.8% |  |
 | 23.5–24.5% | 0% | 0% |  |
 
 
@@ -45,6 +47,8 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [10–24 November 2021](2021-11-24-TNSIlresandKantarPublic.html) | TNS Ilres and Kantar Public <br> Luxemburger Wort and RTL | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [9–21 June 2021](2021-06-21-TNSIlresandKantarPublic.html) | TNS Ilres and Kantar Public <br> Luxemburger Wort and RTL | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [10–24 November 2020](2020-11-24-TNSIlresandKantarPublic.html) | TNS Ilres and Kantar Public <br> Luxemburger Wort and RTL | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [8–24 June 2020](2020-06-24-Kantar.html) | Kantar <br> Luxemburger Wort and RTL | 1 | 1 | 1 | 1 | 1 |
 | [14–23 November 2019](2019-11-23-Kantar.html) | Kantar <br> Luxemburger Wort and RTL | 1 | 1 | 1 | 1 | 1 |
@@ -57,8 +61,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 82% | 100% | Last Result, Median |
-| 2 | 18% | 18% |  |
+| 1 | 89% | 100% | Last Result, Median |
+| 2 | 11% | 11% |  |
 | 3 | 0% | 0% |  |
 
 
