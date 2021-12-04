@@ -5,9 +5,8 @@ The table below lists the most recent polls (less than 180 days old) registered 
 | Period     | Polling firm/Commissioner(s) | CSV | DG | DP | LSAP | ADR | DL | PPLU | PID | KPL |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 37.6% <br> 3 | 15.0% <br> 1 | 14.8% <br> 1 | 11.8% <br> 1 | 7.5% <br> 0 | 5.8% <br> 0 | 4.2% <br> 0 | 1.8% <br> 0 | 1.5% <br> 0 |
-| N/A | [Poll Average](average.html) | 24–29% <br> 2 | 10–15% <br> 1 | 18–22% <br> 1–2 | 15–21% <br> 1–2 | 7–11% <br> 0–1 | 5–8% <br> 0 | 4–7% <br> 0 | N/A <br> N/A | 1% <br> 0 |
-| [10–24 November 2020](2020-11-24-TNSIlresandKantarPublic.html) | TNS Ilres and Kantar Public <br> Luxemburger Wort and RTL | 24–28% <br> 2 | 10–13% <br> 1 | 18–22% <br> 1–2 | 18–22% <br> 1–2 | 8–11% <br> 0–1 | 5–7% <br> 0 | 5–7% <br> 0 | N/A <br> N/A | 1% <br> 0 |
-| [8–24 June 2020](2020-06-24-Kantar.html) | Kantar <br> Luxemburger Wort and RTL | 25–30% <br> 2–3 | 12–15% <br> 1 | 19–23% <br> 1–2 | 15–18% <br> 1 | 7–10% <br> 0 | 6–9% <br> 0 | 4–6% <br> 0 | N/A <br> N/A | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 20–24% <br> 1–2 | 11–14% <br> 1 | 15–18% <br> 1 | 18–22% <br> 1–2 | 10–13% <br> 0–1 | 4–6% <br> 0 | 10–13% <br> 0–1 | N/A <br> N/A | 0–1% <br> 0 |
+| [10–24 November 2021](2021-11-24-TNSIlresandKantarPublic.html) | TNS Ilres and Kantar Public <br> Luxemburger Wort and RTL | 20–24% <br> 1–2 | 11–14% <br> 1 | 15–18% <br> 1 | 18–22% <br> 1–2 | 10–13% <br> 0–1 | 4–6% <br> 0 | 10–13% <br> 0–1 | N/A <br> N/A | 0–1% <br> 0 |
 | 26 May 2019 | General Election | 37.6% <br> 3 | 15.0% <br> 1 | 14.8% <br> 1 | 11.8% <br> 1 | 7.5% <br> 0 | 5.8% <br> 0 | 4.2% <br> 0 | 1.8% <br> 0 | 1.5% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
