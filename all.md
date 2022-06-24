@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | CSV | DG | DP | LSAP | ADR | DL | PPLU | PID | KPL |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 37.6% <br> 3 | 15.0% <br> 1 | 14.8% <br> 1 | 11.8% <br> 1 | 7.5% <br> 0 | 5.8% <br> 0 | 4.2% <br> 0 | 1.8% <br> 0 | 1.5% <br> 0 |
+| [24 May–7 June 2022](2022-06-07-TNSIlresandKantarPublic.html) | TNS Ilres and Kantar Public <br> Luxemburger Wort and RTL | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [10–24 November 2021](2021-11-24-TNSIlresandKantarPublic.html) | TNS Ilres and Kantar Public <br> Luxemburger Wort and RTL | 20–24% <br> 1–2 | 11–14% <br> 1 | 15–18% <br> 1 | 18–22% <br> 1–2 | 10–13% <br> 0–1 | 4–6% <br> 0 | 10–13% <br> 0–1 | N/A <br> N/A | 0–1% <br> 0 |
 | [9–21 June 2021](2021-06-21-TNSIlresandKantarPublic.html) | TNS Ilres and Kantar Public <br> Luxemburger Wort and RTL | 23–27% <br> 2 | 12–15% <br> 1 | 18–21% <br> 1–2 | 16–20% <br> 1–2 | 6–9% <br> 0 | 6–8% <br> 0 | 7–9% <br> 0–1 | N/A <br> N/A | 1–2% <br> 0 |
 | [10–24 November 2020](2020-11-24-TNSIlresandKantarPublic.html) | TNS Ilres and Kantar Public <br> Luxemburger Wort and RTL | 24–28% <br> 2 | 10–13% <br> 1 | 18–22% <br> 1–2 | 18–22% <br> 1–2 | 8–11% <br> 0–1 | 5–7% <br> 0 | 5–7% <br> 0 | N/A <br> N/A | 1% <br> 0 |
