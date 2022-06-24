@@ -5,8 +5,8 @@ The table below lists the most recent polls (less than 180 days old) registered 
 | Period     | Polling firm/Commissioner(s) | CSV | DG | DP | LSAP | ADR | DL | PPLU | PID | KPL |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 37.6% <br> 3 | 15.0% <br> 1 | 14.8% <br> 1 | 11.8% <br> 1 | 7.5% <br> 0 | 5.8% <br> 0 | 4.2% <br> 0 | 1.8% <br> 0 | 1.5% <br> 0 |
-| N/A | [Poll Average](average.html) | 20–24% <br> 1–2 | 11–14% <br> 1 | 15–18% <br> 1 | 18–22% <br> 1–2 | 10–13% <br> 0–1 | 4–6% <br> 0 | 10–13% <br> 0–1 | N/A <br> N/A | 0–1% <br> 0 |
-| [10–24 November 2021](2021-11-24-TNSIlresandKantarPublic.html) | TNS Ilres and Kantar Public <br> Luxemburger Wort and RTL | 20–24% <br> 1–2 | 11–14% <br> 1 | 15–18% <br> 1 | 18–22% <br> 1–2 | 10–13% <br> 0–1 | 4–6% <br> 0 | 10–13% <br> 0–1 | N/A <br> N/A | 0–1% <br> 0 |
+| N/A | [Poll Average](average.html) | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [24 May–7 June 2022](2022-06-07-TNSIlresandKantarPublic.html) | TNS Ilres and Kantar Public <br> Luxemburger Wort and RTL | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | 26 May 2019 | General Election | 37.6% <br> 3 | 15.0% <br> 1 | 14.8% <br> 1 | 11.8% <br> 1 | 7.5% <br> 0 | 5.8% <br> 0 | 4.2% <br> 0 | 1.8% <br> 0 | 1.5% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
