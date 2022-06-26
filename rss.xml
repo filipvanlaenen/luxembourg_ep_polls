@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/luxembourg_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 04 Dec 2021 17:10:54 +0100</pubDate>
+    <pubDate>Sun, 26 Jun 2022 21:28:20 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by TNS Ilres and Kantar Public for Luxemburger Wort and RTL, 24 May–7 June 2022 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/luxembourg_ep_polls/2022-06-07-TNSIlresandKantarPublic.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Chrëschtlech-Sozial Vollekspartei (EPP): 2 seats&lt;/li&gt;&lt;li&gt;Lëtzebuerger Sozialistesch Aarbechterpartei (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Demokratesch Partei (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;déi gréng (Greens/EFA): 1 seats&lt;/li&gt;&lt;li&gt;Alternativ Demokratesch Reformpartei (ECR): 0 seats&lt;/li&gt;&lt;li&gt;déi Lénk (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Piratepartei Lëtzebuerg (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Kommunistesch Partei Lëtzebuerg (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/luxembourg_ep_polls/2022-06-07-TNSIlresandKantarPublic-seats.png"
+        length="251285"
+        type="image/png"/>
+      <pubDate>Sun, 26 Jun 2022 21:28:20 +0200</pubDate>
+      <dc:date>2022-06-26T21:28:20.55719+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by TNS Ilres and Kantar Public for Luxemburger Wort and RTL, 24 May–7 June 2022 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/luxembourg_ep_polls/2022-06-07-TNSIlresandKantarPublic.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/luxembourg_ep_polls/2022-06-07-TNSIlresandKantarPublic-coalitions-seats.png"
+        length="164233"
+        type="image/png"/>
+      <pubDate>Sun, 26 Jun 2022 21:28:20 +0200</pubDate>
+      <dc:date>2022-06-26T21:28:20.55719+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by TNS Ilres and Kantar Public for Luxemburger Wort and RTL, 24 May–7 June 2022 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/luxembourg_ep_polls/2022-06-07-TNSIlresandKantarPublic.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Chrëschtlech-Sozial Vollekspartei (EPP): 21.2–25.0%&lt;/li&gt;&lt;li&gt;Lëtzebuerger Sozialistesch Aarbechterpartei (S&amp;amp;D): 16.3–19.8%&lt;/li&gt;&lt;li&gt;Demokratesch Partei (RE): 16.4–19.9%&lt;/li&gt;&lt;li&gt;déi gréng (Greens/EFA): 12.2–15.3%&lt;/li&gt;&lt;li&gt;Alternativ Demokratesch Reformpartei (ECR): 6.5–8.9%&lt;/li&gt;&lt;li&gt;déi Lénk (GUE/NGL): 4.7–6.8%&lt;/li&gt;&lt;li&gt;Piratepartei Lëtzebuerg (Greens/EFA): 8.4–11.1%&lt;/li&gt;&lt;li&gt;Kommunistesch Partei Lëtzebuerg (*): 0.2–0.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/luxembourg_ep_polls/2022-06-07-TNSIlresandKantarPublic.png"
+        length="308778"
+        type="image/png"/>
+      <pubDate>Sun, 26 Jun 2022 21:28:20 +0200</pubDate>
+      <dc:date>2022-06-26T21:28:20.55719+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by TNS Ilres and Kantar Public for Luxemburger Wort and RTL, 10–24 November 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/luxembourg_ep_polls/2021-11-24-TNSIlresandKantarPublic.html#seats</link>
@@ -159,6 +189,6 @@
       <pubDate>Wed, 18 Dec 2019 22:57:21 +0100</pubDate>
       <dc:date>2019-12-18T22:57:21+01:00</dc:date>
     </item>
-    <dc:date>2021-12-04T17:10:54.661354+01:00</dc:date>
+    <dc:date>2022-06-26T21:28:20.55719+02:00</dc:date>
   </channel>
 </rss>
