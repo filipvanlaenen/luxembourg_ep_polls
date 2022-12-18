@@ -10,7 +10,8 @@ Last result: **14.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18.1% | 17.0–19.3% | 16.7–19.6% | 16.4–19.9% | 15.9–20.5% |
+| N/A | [Poll Average](average.html) | 18.3% | 17.2–19.5% | 16.8–19.9% | 16.6–20.2% | 16.0–20.8% |
+| [14–28 November 2022](2022-11-28-TNSIlres.html) | TNS Ilres <br> Luxemburger Wort and RTL | 18.5% | 17.4–19.7% | 17.0–20.0% | 16.8–20.3% | 16.2–20.9% |
 | [24 May–7 June 2022](2022-06-07-TNSIlresandKantarPublic.html) | TNS Ilres and Kantar Public <br> Luxemburger Wort and RTL | 18.1% | 17.0–19.3% | 16.7–19.6% | 16.4–19.9% | 15.9–20.5% |
 | [10–24 November 2021](2021-11-24-TNSIlresandKantarPublic.html) | TNS Ilres and Kantar Public <br> Luxemburger Wort and RTL | 16.2% | 15.1–17.3% | 14.8–17.6% | 14.6–17.9% | 14.1–18.5% |
 | [9–21 June 2021](2021-06-21-TNSIlresandKantarPublic.html) | TNS Ilres and Kantar Public <br> Luxemburger Wort and RTL | 19.3% | 18.1–20.5% | 17.8–20.8% | 17.5–21.1% | 17.0–21.7% |
@@ -26,12 +27,12 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 13.5–14.5% | 0% | 100% |  |
 | 14.5–15.5% | 0.1% | 100% | Last Result |
-| 15.5–16.5% | 3% | 99.9% |  |
-| 16.5–17.5% | 22% | 96% |  |
-| 17.5–18.5% | 43% | 74% | Median |
-| 18.5–19.5% | 26% | 31% |  |
-| 19.5–20.5% | 5% | 6% |  |
-| 20.5–21.5% | 0.4% | 0.4% |  |
+| 15.5–16.5% | 2% | 99.9% |  |
+| 16.5–17.5% | 17% | 98% |  |
+| 17.5–18.5% | 40% | 80% | Median |
+| 18.5–19.5% | 31% | 40% |  |
+| 19.5–20.5% | 8% | 9% |  |
+| 20.5–21.5% | 0.9% | 0.9% |  |
 | 21.5–22.5% | 0% | 0% |  |
 
 
@@ -43,7 +44,8 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| N/A | [Poll Average](average.html) | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| [14–28 November 2022](2022-11-28-TNSIlres.html) | TNS Ilres <br> Luxemburger Wort and RTL | 1 | 1 | 1 | 1–2 | 1–2 |
 | [24 May–7 June 2022](2022-06-07-TNSIlresandKantarPublic.html) | TNS Ilres and Kantar Public <br> Luxemburger Wort and RTL | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [10–24 November 2021](2021-11-24-TNSIlresandKantarPublic.html) | TNS Ilres and Kantar Public <br> Luxemburger Wort and RTL | 1 | 1 | 1 | 1 | 1 |
 | [9–21 June 2021](2021-06-21-TNSIlresandKantarPublic.html) | TNS Ilres and Kantar Public <br> Luxemburger Wort and RTL | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -59,8 +61,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 84% | 100% | Last Result, Median |
-| 2 | 16% | 16% |  |
+| 1 | 90% | 100% | Last Result, Median |
+| 2 | 10% | 10% |  |
 | 3 | 0% | 0% |  |
 
 
