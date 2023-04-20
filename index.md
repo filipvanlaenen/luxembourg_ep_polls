@@ -5,8 +5,8 @@ The table below lists the most recent polls (less than 30 days old) registered a
 | Period     | Polling firm/Commissioner(s) | CSV | DG | DP | LSAP | ADR | DL | PPLU | PID | KPL |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 37.6% <br> 3 | 15.0% <br> 1 | 14.8% <br> 1 | 11.8% <br> 1 | 7.5% <br> 0 | 5.8% <br> 0 | 4.2% <br> 0 | 1.8% <br> 0 | 1.5% <br> 0 |
-| N/A | [Poll Average](average.html) | 21–25% <br> 2 | 11–14% <br> 1 | 17–20% <br> 1–2 | 19–23% <br> 1–2 | 7–9% <br> 0 | 5–7% <br> 0 | 8–11% <br> 0–1 | N/A <br> N/A | 0–1% <br> 0 |
-| [14–28 November 2022](2022-11-28-TNSIlres.html) | TNS Ilres <br> Luxemburger Wort and RTL | 21–25% <br> 2 | 11–14% <br> 1 | 17–20% <br> 1–2 | 19–23% <br> 1–2 | 7–9% <br> 0 | 5–7% <br> 0 | 8–11% <br> 0–1 | N/A <br> N/A | 0–1% <br> 0 |
+| N/A | [Poll Average](average.html) | 25–29% <br> 2–3 | 11–14% <br> 1 | 15–19% <br> 1 | 16–20% <br> 1–2 | 6–9% <br> 0 | 4–5% <br> 0 | 9–12% <br> 0–1 | N/A <br> N/A | 0–1% <br> 0 |
+| [23 March–6 April 2023](2023-04-06-TNSIlres.html) | TNS Ilres <br> Luxemburger Wort and RTL | 25–29% <br> 2–3 | 11–14% <br> 1 | 15–19% <br> 1 | 16–20% <br> 1–2 | 6–9% <br> 0 | 3–5% <br> 0 | 9–11% <br> 0–1 | N/A <br> N/A | 0–1% <br> 0 |
 | 26 May 2019 | General Election | 37.6% <br> 3 | 15.0% <br> 1 | 14.8% <br> 1 | 11.8% <br> 1 | 7.5% <br> 0 | 5.8% <br> 0 | 4.2% <br> 0 | 1.8% <br> 0 | 1.5% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
