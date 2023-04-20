@@ -11,6 +11,7 @@ Last result: **1.5%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.5% | 0.3–0.8% | 0.3–0.8% | 0.3–0.9% | 0.2–1.1% |
+| [23 March–6 April 2023](2023-04-06-TNSIlres.html) | TNS Ilres <br> Luxemburger Wort and RTL | 0.5% | 0.3–0.8% | 0.3–0.8% | 0.2–0.9% | 0.2–1.1% |
 | [14–28 November 2022](2022-11-28-TNSIlres.html) | TNS Ilres <br> Luxemburger Wort and RTL | 0.5% | 0.3–0.8% | 0.3–0.9% | 0.3–0.9% | 0.2–1.1% |
 | [24 May–7 June 2022](2022-06-07-TNSIlres.html) | TNS Ilres <br> Luxemburger Wort and RTL | 0.4% | N/A | N/A | N/A | N/A |
 | [10–24 November 2021](2021-11-24-TNSIlres.html) | TNS Ilres <br> Luxemburger Wort and RTL | 0.8% | N/A | N/A | N/A | N/A |
@@ -25,8 +26,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 55% | 100% |  |
-| 0.5–1.5% | 45% | 45% | Last Result, Median |
+| 0.0–0.5% | 59% | 100% |  |
+| 0.5–1.5% | 41% | 41% | Last Result, Median |
 | 1.5–2.5% | 0% | 0% |  |
 
 
@@ -39,6 +40,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [23 March–6 April 2023](2023-04-06-TNSIlres.html) | TNS Ilres <br> Luxemburger Wort and RTL | 0 | 0 | 0 | 0 | 0 |
 | [14–28 November 2022](2022-11-28-TNSIlres.html) | TNS Ilres <br> Luxemburger Wort and RTL | 0 | 0 | 0 | 0 | 0 |
 | [24 May–7 June 2022](2022-06-07-TNSIlres.html) | TNS Ilres <br> Luxemburger Wort and RTL |  |  |  |  |  |
 | [10–24 November 2021](2021-11-24-TNSIlres.html) | TNS Ilres <br> Luxemburger Wort and RTL |  |  |  |  |  |
