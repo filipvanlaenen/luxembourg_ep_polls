@@ -10,7 +10,8 @@ Last result: **7.5%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.5% | 6.8–8.3% | 6.5–8.5% | 6.4–8.8% | 6.0–9.2% |
+| N/A | [Poll Average](average.html) | 6.9% | 6.2–7.7% | 6.0–7.9% | 5.8–8.1% | 5.5–8.5% |
+| [7–16 August 2023](2023-08-16-Ilres.html) | Ilres <br> Luxemburger Wort and RTL | 6.9% | 6.2–7.7% | 6.0–7.9% | 5.8–8.1% | 5.5–8.5% |
 | [23 March–6 April 2023](2023-04-06-TNSIlres.html) | TNS Ilres <br> Luxemburger Wort and RTL | 7.5% | 6.8–8.3% | 6.5–8.6% | 6.4–8.8% | 6.0–9.2% |
 | [14–28 November 2022](2022-11-28-TNSIlres.html) | TNS Ilres <br> Luxemburger Wort and RTL | 7.7% | 7.0–8.6% | 6.8–8.8% | 6.6–9.0% | 6.2–9.5% |
 | [24 May–7 June 2022](2022-06-07-TNSIlres.html) | TNS Ilres <br> Luxemburger Wort and RTL | 7.6% | N/A | N/A | N/A | N/A |
@@ -26,13 +27,13 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 5% | 100% |  |
-| 6.5–7.5% | 47% | 95% |  |
-| 7.5–8.5% | 43% | 48% | Last Result, Median |
-| 8.5–9.5% | 5% | 5% |  |
-| 9.5–10.5% | 0.1% | 0.1% |  |
-| 10.5–11.5% | 0% | 0% |  |
+| 3.5–4.5% | 0% | 100% |  |
+| 4.5–5.5% | 0.6% | 100% |  |
+| 5.5–6.5% | 26% | 99.4% |  |
+| 6.5–7.5% | 59% | 74% | Median |
+| 7.5–8.5% | 14% | 15% | Last Result |
+| 8.5–9.5% | 0.4% | 0.4% |  |
+| 9.5–10.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -44,6 +45,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [7–16 August 2023](2023-08-16-Ilres.html) | Ilres <br> Luxemburger Wort and RTL | 0 | 0 | 0 | 0 | 0 |
 | [23 March–6 April 2023](2023-04-06-TNSIlres.html) | TNS Ilres <br> Luxemburger Wort and RTL | 0 | 0 | 0 | 0 | 0 |
 | [14–28 November 2022](2022-11-28-TNSIlres.html) | TNS Ilres <br> Luxemburger Wort and RTL | 0 | 0 | 0 | 0 | 0 |
 | [24 May–7 June 2022](2022-06-07-TNSIlres.html) | TNS Ilres <br> Luxemburger Wort and RTL |  |  |  |  |  |
@@ -61,8 +63,6 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.9% | 100% | Last Result, Median |
-| 1 | 0.1% | 0.1% |  |
-| 2 | 0% | 0% |  |
+| 0 | 100% | 100% | Last Result, Median |
 
 
