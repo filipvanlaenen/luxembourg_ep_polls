@@ -2,12 +2,12 @@
 
 The table below lists the most recent polls (less than 30 days old) registered and analyzed so far.
 
-| Period     | Polling firm/Commissioner(s) | CSV | DG | DP | LSAP | ADR | DL | PPLU | PID | KPL |
-|:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| 26 May 2019 | General Election | 37.6% <br> 3 | 15.0% <br> 1 | 14.8% <br> 1 | 11.8% <br> 1 | 7.5% <br> 0 | 5.8% <br> 0 | 4.2% <br> 0 | 1.8% <br> 0 | 1.5% <br> 0 |
-| N/A | [Poll Average](average.html) | 26–30% <br> 2–3 | 9–12% <br> 0–1 | 16–19% <br> 1 | 18–22% <br> 1–2 | 6–8% <br> 0 | 4–6% <br> 0 | 8–11% <br> 0–1 | N/A <br> N/A | 0–1% <br> 0 |
-| [7–16 August 2023](2023-08-16-Ilres.html) | Ilres <br> Luxemburger Wort and RTL | 26–30% <br> 2–3 | 9–12% <br> 0–1 | 16–19% <br> 1 | 18–22% <br> 1–2 | 6–8% <br> 0 | 4–6% <br> 0 | 8–11% <br> 0–1 | N/A <br> N/A | 0–1% <br> 0 |
-| 26 May 2019 | General Election | 37.6% <br> 3 | 15.0% <br> 1 | 14.8% <br> 1 | 11.8% <br> 1 | 7.5% <br> 0 | 5.8% <br> 0 | 4.2% <br> 0 | 1.8% <br> 0 | 1.5% <br> 0 |
+| Period     | Polling firm/Commissioner(s) | CSV | DG | DP | LSAP | ADR | DL | PPLU | PID | KPL | DK | DEM | VOLT | FOKUS |
+|:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 26 May 2019 | General Election | 37.6% <br> 3 | 15.0% <br> 1 | 14.8% <br> 1 | 11.8% <br> 1 | 7.5% <br> 0 | 5.8% <br> 0 | 4.2% <br> 0 | 1.8% <br> 0 | 1.5% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| N/A | [Poll Average](average.html) | 26–30% <br> 2–3 | 9–12% <br> 0–1 | 16–19% <br> 1–2 | 18–22% <br> 1–2 | 6–8% <br> 0 | 4–6% <br> 0 | 8–11% <br> 0–1 | N/A <br> N/A | 0–1% <br> 0 | 0% <br> 0 | 0% <br> 0 | 0% <br> 0 | 1–2% <br> 0 |
+| [7–16 August 2023](2023-08-16-Ilres.html) | Ilres <br> Luxemburger Wort and RTL | 26–30% <br> 2–3 | 9–12% <br> 0–1 | 16–19% <br> 1–2 | 18–22% <br> 1–2 | 6–8% <br> 0 | 4–6% <br> 0 | 8–11% <br> 0–1 | N/A <br> N/A | 0–1% <br> 0 | 0% <br> 0 | 0% <br> 0 | 0% <br> 0 | 1–2% <br> 0 |
+| 26 May 2019 | General Election | 37.6% <br> 3 | 15.0% <br> 1 | 14.8% <br> 1 | 11.8% <br> 1 | 7.5% <br> 0 | 5.8% <br> 0 | 4.2% <br> 0 | 1.8% <br> 0 | 1.5% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
 
@@ -23,6 +23,10 @@ Only polls for which at least the sample size has been published are included in
 + **PPLU:** Piratepartei Lëtzebuerg (Greens/EFA)
 + **PID:** Partei fir Integral Demokratie (*)
 + **KPL:** Kommunistesch Partei Lëtzebuerg (*)
++ **DK:** Déi Konservativ (*)
++ **DEM:** Demokratie (*)
++ **VOLT:** Volt Lëtzebuerg (Greens/EFA)
++ **FOKUS:** Fokus (*)
 + **N/A (single party):** Party not included the published results
 + **N/A (entire row):** Calculation for this opinion poll not started yet
 
