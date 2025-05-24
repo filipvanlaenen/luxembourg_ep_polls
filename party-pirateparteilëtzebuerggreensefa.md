@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.2% | 2.7–3.8% | 2.6–4.0% | 2.5–4.1% | 2.3–4.4% |
+| N/A | [Poll Average](average.html) | 3.5% | 3.0–4.1% | 2.8–4.3% | 2.7–4.4% | 2.5–4.7% |
+| [8–24 April 2025](2025-04-24-Ilres.html) | Ilres <br> Luxemburger Wort and RTL | 3.5% | 3.0–4.1% | 2.8–4.3% | 2.7–4.4% | 2.5–4.7% |
 | [23–30 September 2024](2024-09-30-Ilres.html) | Ilres <br> Luxemburger Wort and RTL | 3.2% | 2.7–3.8% | 2.6–4.0% | 2.5–4.1% | 2.3–4.4% |
 
 ### Probability Mass Function
@@ -21,10 +22,10 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 3% | 100% |  |
-| 2.5–3.5% | 74% | 97% | Median |
-| 3.5–4.5% | 23% | 23% |  |
-| 4.5–5.5% | 0.2% | 0.2% |  |
+| 1.5–2.5% | 0.6% | 100% |  |
+| 2.5–3.5% | 53% | 99.4% |  |
+| 3.5–4.5% | 45% | 46% | Median |
+| 4.5–5.5% | 1.2% | 1.2% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
 
@@ -37,6 +38,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [8–24 April 2025](2025-04-24-Ilres.html) | Ilres <br> Luxemburger Wort and RTL | 0 | 0 | 0 | 0 | 0 |
 | [23–30 September 2024](2024-09-30-Ilres.html) | Ilres <br> Luxemburger Wort and RTL | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
