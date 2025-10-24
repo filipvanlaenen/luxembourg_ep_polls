@@ -9,8 +9,8 @@ The table below lists the polls on which the average is based. They are the most
 | Period     | Polling firm/Commissioner(s) | DL | DG | PPLU | VOLT | LSAP | DP | CSV | ADR | DK | DEM | FOKUS | KPL | LF | PID |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 9 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | Poll Average | 4–6% <br> 0 | 9–12% <br> 0–1 | 3–4% <br> 0 | 0–1% <br> 0 | 16–20% <br> 1 | 19–23% <br> 1–2 | 27–31% <br> 2–3 | 8–11% <br> 0–1 | 0–1% <br> 0 | N/A <br> N/A | 1–3% <br> 0 | 0–1% <br> 0 | 1–2% <br> 0 | N/A <br> N/A |
-| [8–24 April 2025](2025-04-24-Ilres.html) | Ilres <br> Luxemburger Wort and RTL | 4–6% <br> 0 | 9–12% <br> 0–1 | 3–4% <br> 0 | 0–1% <br> 0 | 16–20% <br> 1 | 19–23% <br> 1–2 | 27–31% <br> 2–3 | 8–11% <br> 0–1 | 0–1% <br> 0 | N/A <br> N/A | 1–3% <br> 0 | 0–1% <br> 0 | 1–2% <br> 0 | N/A <br> N/A |
+| N/A | Poll Average | 5–7% <br> 0 | 8–11% <br> 0–1 | 4–5% <br> 0 | 0–1% <br> 0 | 17–20% <br> 1–2 | 18–22% <br> 1–2 | 23–27% <br> 2 | 10–13% <br> 1 | 0–1% <br> 0 | N/A <br> N/A | 1–3% <br> 0 | 0–1% <br> 0 | 2–3% <br> 0 | N/A <br> N/A |
+| [15–29 September 2025](2025-09-29-Ilres.html) | Ilres <br> Luxemburger Wort and RTL | 5–7% <br> 0 | 8–11% <br> 0–1 | 4–5% <br> 0 | 0–1% <br> 0 | 17–21% <br> 1–2 | 18–22% <br> 1–2 | 23–27% <br> 2 | 10–13% <br> 1 | 0–1% <br> 0 | N/A <br> N/A | 1–3% <br> 0 | 0–1% <br> 0 | 1–3% <br> 0 | N/A <br> N/A |
 | 9 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
@@ -43,19 +43,19 @@ Only polls for which at least the sample size has been published are included in
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#déi-lénk-(gue/ngl)">déi Lénk (GUE/NGL)</a> | 0.0% | 4.8% | 4.2–5.5% |4.0–5.7% | 3.9–5.8% | 3.6–6.2% |
-| <a href="#déi-gréng-(greens/efa)">déi gréng (Greens/EFA)</a> | 0.0% | 10.5% | 9.6–11.4% |9.4–11.7% | 9.2–12.0% | 8.8–12.4% |
-| <a href="#piratepartei-lëtzebuerg-(greens/efa)">Piratepartei Lëtzebuerg (Greens/EFA)</a> | 0.0% | 3.5% | 3.0–4.1% |2.8–4.3% | 2.7–4.4% | 2.5–4.7% |
+| <a href="#déi-lénk-(gue/ngl)">déi Lénk (GUE/NGL)</a> | 0.0% | 6.0% | 5.3–6.7% |5.1–6.9% | 4.9–7.1% | 4.6–7.5% |
+| <a href="#déi-gréng-(greens/efa)">déi gréng (Greens/EFA)</a> | 0.0% | 9.4% | 8.5–10.2% |8.3–10.5% | 8.1–10.7% | 7.7–11.2% |
+| <a href="#piratepartei-lëtzebuerg-(greens/efa)">Piratepartei Lëtzebuerg (Greens/EFA)</a> | 0.0% | 4.4% | 3.8–5.1% |3.7–5.3% | 3.5–5.4% | 3.3–5.8% |
 | <a href="#volt-lëtzebuerg-(greens/efa)">Volt Lëtzebuerg (Greens/EFA)</a> | 0.0% | 0.3% | 0.1–0.4% |0.1–0.5% | 0.1–0.6% | 0.1–0.7% |
-| <a href="#lëtzebuerger-sozialistesch-aarbechterpartei-(s&d)">Lëtzebuerger Sozialistesch Aarbechterpartei (S&D)</a> | 0.0% | 17.9% | 16.8–19.1% |16.5–19.4% | 16.2–19.7% | 15.7–20.3% |
-| <a href="#demokratesch-partei-(re)">Demokratesch Partei (RE)</a> | 0.0% | 21.0% | 19.8–22.3% |19.5–22.6% | 19.2–22.9% | 18.7–23.5% |
-| <a href="#chrëschtlech-sozial-vollekspartei-(epp)">Chrëschtlech-Sozial Vollekspartei (EPP)</a> | 0.0% | 29.1% | 27.8–30.5% |27.4–30.9% | 27.1–31.2% | 26.4–31.9% |
-| <a href="#alternativ-demokratesch-reformpartei-(ecr)">Alternativ Demokratesch Reformpartei (ECR)</a> | 0.0% | 9.3% | 8.5–10.2% |8.2–10.5% | 8.0–10.7% | 7.7–11.1% |
-| <a href="#déi-konservativ-(*)">Déi Konservativ (*)</a> | 0.0% | 0.4% | 0.2–0.6% |0.2–0.6% | 0.2–0.7% | 0.1–0.8% |
+| <a href="#lëtzebuerger-sozialistesch-aarbechterpartei-(s&d)">Lëtzebuerger Sozialistesch Aarbechterpartei (S&D)</a> | 0.0% | 18.7% | 17.6–19.9% |17.2–20.2% | 17.0–20.5% | 16.4–21.1% |
+| <a href="#demokratesch-partei-(re)">Demokratesch Partei (RE)</a> | 0.0% | 19.7% | 18.6–21.0% |18.3–21.3% | 18.0–21.6% | 17.4–22.2% |
+| <a href="#chrëschtlech-sozial-vollekspartei-(epp)">Chrëschtlech-Sozial Vollekspartei (EPP)</a> | 0.0% | 25.3% | 24.0–26.6% |23.7–27.0% | 23.4–27.4% | 22.8–28.0% |
+| <a href="#alternativ-demokratesch-reformpartei-(ecr)">Alternativ Demokratesch Reformpartei (ECR)</a> | 0.0% | 11.6% | 10.7–12.6% |10.4–12.9% | 10.2–13.2% | 9.8–13.7% |
+| <a href="#déi-konservativ-(*)">Déi Konservativ (*)</a> | 0.0% | 0.5% | 0.3–0.8% |0.3–0.9% | 0.3–0.9% | 0.2–1.1% |
 | <a href="#demokratie-(*)">Demokratie (*)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
-| <a href="#fokus-(*)">Fokus (*)</a> | 0.0% | 1.9% | 1.5–2.4% |1.5–2.5% | 1.4–2.6% | 1.2–2.9% |
-| <a href="#kommunistesch-partei-lëtzebuerg-(*)">Kommunistesch Partei Lëtzebuerg (*)</a> | 0.0% | 0.4% | 0.2–0.6% |0.2–0.6% | 0.2–0.7% | 0.1–0.8% |
-| <a href="#liberté-–-fräiheet!-(*)">Liberté – Fräiheet! (*)</a> | 0.0% | 1.2% | 0.9–1.6% |0.9–1.7% | 0.8–1.8% | 0.7–2.0% |
+| <a href="#fokus-(*)">Fokus (*)</a> | 0.0% | 2.0% | 1.6–2.4% |1.5–2.5% | 1.4–2.7% | 1.2–2.9% |
+| <a href="#kommunistesch-partei-lëtzebuerg-(*)">Kommunistesch Partei Lëtzebuerg (*)</a> | 0.0% | 0.4% | 0.3–0.6% |0.2–0.7% | 0.2–0.8% | 0.1–0.9% |
+| <a href="#liberté-–-fräiheet!-(*)">Liberté – Fräiheet! (*)</a> | 0.0% | 2.1% | 1.7–2.5% |1.6–2.7% | 1.5–2.8% | 1.3–3.0% |
 | <a href="#partei-fir-integral-demokratie-(*)">Partei fir Integral Demokratie (*)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 
 ### Volt Lëtzebuerg (Greens/EFA)
@@ -89,14 +89,15 @@ Only polls for which at least the sample size has been published are included in
 | 11.5–12.5% | 0% | 100% |  |
 | 12.5–13.5% | 0% | 100% |  |
 | 13.5–14.5% | 0% | 100% |  |
-| 14.5–15.5% | 0.3% | 100% |  |
-| 15.5–16.5% | 5% | 99.7% |  |
-| 16.5–17.5% | 27% | 94% |  |
-| 17.5–18.5% | 42% | 67% | Median |
-| 18.5–19.5% | 21% | 25% |  |
-| 19.5–20.5% | 4% | 4% |  |
-| 20.5–21.5% | 0.2% | 0.2% |  |
-| 21.5–22.5% | 0% | 0% |  |
+| 14.5–15.5% | 0% | 100% |  |
+| 15.5–16.5% | 0.7% | 100% |  |
+| 16.5–17.5% | 9% | 99.3% |  |
+| 17.5–18.5% | 33% | 90% |  |
+| 18.5–19.5% | 39% | 57% | Median |
+| 19.5–20.5% | 15% | 18% |  |
+| 20.5–21.5% | 2% | 2% |  |
+| 21.5–22.5% | 0.1% | 0.1% |  |
+| 22.5–23.5% | 0% | 0% |  |
 
 ### Chrëschtlech-Sozial Vollekspartei (EPP)
 
@@ -126,19 +127,15 @@ Only polls for which at least the sample size has been published are included in
 | 18.5–19.5% | 0% | 100% |  |
 | 19.5–20.5% | 0% | 100% |  |
 | 20.5–21.5% | 0% | 100% |  |
-| 21.5–22.5% | 0% | 100% |  |
-| 22.5–23.5% | 0% | 100% |  |
-| 23.5–24.5% | 0% | 100% |  |
-| 24.5–25.5% | 0% | 100% |  |
-| 25.5–26.5% | 0.7% | 100% |  |
-| 26.5–27.5% | 6% | 99.3% |  |
-| 27.5–28.5% | 23% | 93% |  |
-| 28.5–29.5% | 37% | 70% | Median |
-| 29.5–30.5% | 25% | 34% |  |
-| 30.5–31.5% | 8% | 9% |  |
-| 31.5–32.5% | 1.1% | 1.2% |  |
-| 32.5–33.5% | 0.1% | 0.1% |  |
-| 33.5–34.5% | 0% | 0% |  |
+| 21.5–22.5% | 0.2% | 100% |  |
+| 22.5–23.5% | 3% | 99.7% |  |
+| 23.5–24.5% | 18% | 96% |  |
+| 24.5–25.5% | 36% | 78% | Median |
+| 25.5–26.5% | 30% | 42% |  |
+| 26.5–27.5% | 10% | 12% |  |
+| 27.5–28.5% | 1.5% | 2% |  |
+| 28.5–29.5% | 0.1% | 0.1% |  |
+| 29.5–30.5% | 0% | 0% |  |
 
 ### Alternativ Demokratesch Reformpartei (ECR)
 
@@ -153,13 +150,15 @@ Only polls for which at least the sample size has been published are included in
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 0.3% | 100% |  |
-| 7.5–8.5% | 12% | 99.7% |  |
-| 8.5–9.5% | 52% | 88% | Median |
-| 9.5–10.5% | 32% | 36% |  |
-| 10.5–11.5% | 4% | 4% |  |
-| 11.5–12.5% | 0.1% | 0.1% |  |
-| 12.5–13.5% | 0% | 0% |  |
+| 6.5–7.5% | 0% | 100% |  |
+| 7.5–8.5% | 0% | 100% |  |
+| 8.5–9.5% | 0.2% | 100% |  |
+| 9.5–10.5% | 6% | 99.8% |  |
+| 10.5–11.5% | 39% | 93% |  |
+| 11.5–12.5% | 43% | 55% | Median |
+| 12.5–13.5% | 11% | 12% |  |
+| 13.5–14.5% | 0.7% | 0.8% |  |
+| 14.5–15.5% | 0% | 0% |  |
 
 ### Kommunistesch Partei Lëtzebuerg (*)
 
@@ -167,8 +166,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 88% | 100% | Last Result, Median |
-| 0.5–1.5% | 12% | 12% |  |
+| 0.0–0.5% | 78% | 100% | Last Result, Median |
+| 0.5–1.5% | 22% | 22% |  |
 | 1.5–2.5% | 0% | 0% |  |
 
 ### Piratepartei Lëtzebuerg (Greens/EFA)
@@ -179,11 +178,12 @@ Only polls for which at least the sample size has been published are included in
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.6% | 100% |  |
-| 2.5–3.5% | 53% | 99.4% |  |
-| 3.5–4.5% | 45% | 46% | Median |
-| 4.5–5.5% | 1.2% | 1.2% |  |
-| 5.5–6.5% | 0% | 0% |  |
+| 1.5–2.5% | 0% | 100% |  |
+| 2.5–3.5% | 3% | 100% |  |
+| 3.5–4.5% | 59% | 97% | Median |
+| 4.5–5.5% | 37% | 39% |  |
+| 5.5–6.5% | 1.4% | 1.4% |  |
+| 6.5–7.5% | 0% | 0% |  |
 
 ### déi Lénk (GUE/NGL)
 
@@ -194,12 +194,13 @@ Only polls for which at least the sample size has been published are included in
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0.3% | 100% |  |
-| 3.5–4.5% | 30% | 99.7% |  |
-| 4.5–5.5% | 62% | 70% | Median |
-| 5.5–6.5% | 8% | 8% |  |
-| 6.5–7.5% | 0.1% | 0.1% |  |
-| 7.5–8.5% | 0% | 0% |  |
+| 2.5–3.5% | 0% | 100% |  |
+| 3.5–4.5% | 0.3% | 100% |  |
+| 4.5–5.5% | 23% | 99.7% |  |
+| 5.5–6.5% | 63% | 77% | Median |
+| 6.5–7.5% | 14% | 14% |  |
+| 7.5–8.5% | 0.4% | 0.4% |  |
+| 8.5–9.5% | 0% | 0% |  |
 
 ### Fokus (*)
 
@@ -208,9 +209,9 @@ Only polls for which at least the sample size has been published are included in
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 10% | 100% |  |
-| 1.5–2.5% | 86% | 90% | Median |
-| 2.5–3.5% | 4% | 4% |  |
+| 0.5–1.5% | 9% | 100% |  |
+| 1.5–2.5% | 86% | 91% | Median |
+| 2.5–3.5% | 5% | 5% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
 ### Liberté – Fräiheet! (*)
@@ -220,9 +221,10 @@ Only polls for which at least the sample size has been published are included in
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 88% | 100% | Median |
-| 1.5–2.5% | 12% | 12% |  |
-| 2.5–3.5% | 0% | 0% |  |
+| 0.5–1.5% | 5% | 100% |  |
+| 1.5–2.5% | 87% | 95% | Median |
+| 2.5–3.5% | 9% | 9% |  |
+| 3.5–4.5% | 0% | 0% |  |
 
 ### Déi Konservativ (*)
 
@@ -230,8 +232,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 88% | 100% | Last Result, Median |
-| 0.5–1.5% | 12% | 12% |  |
+| 0.0–0.5% | 54% | 100% | Last Result |
+| 0.5–1.5% | 45% | 46% | Median |
 | 1.5–2.5% | 0% | 0% |  |
 
 ### Demokratesch Partei (RE)
@@ -257,15 +259,14 @@ Only polls for which at least the sample size has been published are included in
 | 13.5–14.5% | 0% | 100% |  |
 | 14.5–15.5% | 0% | 100% |  |
 | 15.5–16.5% | 0% | 100% |  |
-| 16.5–17.5% | 0% | 100% |  |
-| 17.5–18.5% | 0.3% | 100% |  |
-| 18.5–19.5% | 5% | 99.7% |  |
-| 19.5–20.5% | 25% | 94% |  |
-| 20.5–21.5% | 40% | 70% | Median |
-| 21.5–22.5% | 24% | 29% |  |
-| 22.5–23.5% | 5% | 6% |  |
-| 23.5–24.5% | 0.5% | 0.5% |  |
-| 24.5–25.5% | 0% | 0% |  |
+| 16.5–17.5% | 0.7% | 100% |  |
+| 17.5–18.5% | 9% | 99.3% |  |
+| 18.5–19.5% | 32% | 90% |  |
+| 19.5–20.5% | 38% | 58% | Median |
+| 20.5–21.5% | 17% | 20% |  |
+| 21.5–22.5% | 3% | 3% |  |
+| 22.5–23.5% | 0.2% | 0.2% |  |
+| 23.5–24.5% | 0% | 0% |  |
 
 ### déi gréng (Greens/EFA)
 
@@ -280,14 +281,13 @@ Only polls for which at least the sample size has been published are included in
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 0% | 100% |  |
-| 7.5–8.5% | 0.2% | 100% |  |
-| 8.5–9.5% | 8% | 99.8% |  |
-| 9.5–10.5% | 44% | 91% |  |
-| 10.5–11.5% | 40% | 48% | Median |
-| 11.5–12.5% | 7% | 8% |  |
-| 12.5–13.5% | 0.3% | 0.3% |  |
-| 13.5–14.5% | 0% | 0% |  |
+| 6.5–7.5% | 0.2% | 100% |  |
+| 7.5–8.5% | 11% | 99.8% |  |
+| 8.5–9.5% | 51% | 88% | Median |
+| 9.5–10.5% | 33% | 38% |  |
+| 10.5–11.5% | 4% | 4% |  |
+| 11.5–12.5% | 0.1% | 0.1% |  |
+| 12.5–13.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -301,13 +301,13 @@ Only polls for which at least the sample size has been published are included in
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#déi-lénk-(gue/ngl)">déi Lénk (GUE/NGL)</a> | 0 | 0 | 0 |0 | 0 | 0 |
-| <a href="#déi-gréng-(greens/efa)">déi gréng (Greens/EFA)</a> | 0 | 1 | 0–1 |0–1 | 0–1 | 0–1 |
+| <a href="#déi-gréng-(greens/efa)">déi gréng (Greens/EFA)</a> | 0 | 0 | 0–1 |0–1 | 0–1 | 0–1 |
 | <a href="#piratepartei-lëtzebuerg-(greens/efa)">Piratepartei Lëtzebuerg (Greens/EFA)</a> | 0 | 0 | 0 |0 | 0 | 0 |
 | <a href="#volt-lëtzebuerg-(greens/efa)">Volt Lëtzebuerg (Greens/EFA)</a> | 0 | 0 | 0 |0 | 0 | 0 |
-| <a href="#lëtzebuerger-sozialistesch-aarbechterpartei-(s&d)">Lëtzebuerger Sozialistesch Aarbechterpartei (S&D)</a> | 0 | 1 | 1 |1 | 1 | 1 |
+| <a href="#lëtzebuerger-sozialistesch-aarbechterpartei-(s&d)">Lëtzebuerger Sozialistesch Aarbechterpartei (S&D)</a> | 0 | 1 | 1 |1–2 | 1–2 | 1–2 |
 | <a href="#demokratesch-partei-(re)">Demokratesch Partei (RE)</a> | 0 | 2 | 1–2 |1–2 | 1–2 | 1–2 |
-| <a href="#chrëschtlech-sozial-vollekspartei-(epp)">Chrëschtlech-Sozial Vollekspartei (EPP)</a> | 0 | 2 | 2–3 |2–3 | 2–3 | 2–3 |
-| <a href="#alternativ-demokratesch-reformpartei-(ecr)">Alternativ Demokratesch Reformpartei (ECR)</a> | 0 | 0 | 0–1 |0–1 | 0–1 | 0–1 |
+| <a href="#chrëschtlech-sozial-vollekspartei-(epp)">Chrëschtlech-Sozial Vollekspartei (EPP)</a> | 0 | 2 | 2 |2 | 2 | 2 |
+| <a href="#alternativ-demokratesch-reformpartei-(ecr)">Alternativ Demokratesch Reformpartei (ECR)</a> | 0 | 1 | 1 |1 | 1 | 0–1 |
 | <a href="#déi-konservativ-(*)">Déi Konservativ (*)</a> | 0 | 0 | 0 |0 | 0 | 0 |
 | <a href="#demokratie-(*)">Demokratie (*)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#fokus-(*)">Fokus (*)</a> | 0 | 0 | 0 |0 | 0 | 0 |
@@ -333,8 +333,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 18% | 100% | Last Result |
-| 1 | 82% | 82% | Median |
+| 0 | 88% | 100% | Last Result, Median |
+| 1 | 12% | 12% |  |
 | 2 | 0% | 0% |  |
 
 ### Piratepartei Lëtzebuerg (Greens/EFA)
@@ -366,8 +366,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 99.8% | 100% | Median |
-| 2 | 0.2% | 0.2% |  |
+| 1 | 94% | 100% | Median |
+| 2 | 6% | 6% |  |
 | 3 | 0% | 0% |  |
 
 ### Demokratesch Partei (RE)
@@ -379,8 +379,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 47% | 100% |  |
-| 2 | 53% | 53% | Median |
+| 1 | 17% | 100% |  |
+| 2 | 83% | 83% | Median |
 | 3 | 0% | 0% |  |
 
 ### Chrëschtlech-Sozial Vollekspartei (EPP)
@@ -393,8 +393,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 77% | 100% | Median |
-| 3 | 23% | 23% |  |
+| 2 | 99.8% | 100% | Median |
+| 3 | 0.2% | 0.2% |  |
 | 4 | 0% | 0% | Majority |
 
 ### Alternativ Demokratesch Reformpartei (ECR)
@@ -405,8 +405,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 57% | 100% | Last Result, Median |
-| 1 | 43% | 43% |  |
+| 0 | 2% | 100% | Last Result |
+| 1 | 98% | 98% | Median |
 | 2 | 0% | 0% |  |
 
 ### Déi Konservativ (*)
@@ -470,11 +470,11 @@ Only polls for which at least the sample size has been published are included in
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Chrëschtlech-Sozial Vollekspartei (EPP) | 0 | 2 | 0% | 2–3 | 2–3 | 2–3 | 2–3 |
+| Chrëschtlech-Sozial Vollekspartei (EPP) | 0 | 2 | 0% | 2 | 2 | 2 | 2 |
 | Demokratesch Partei (RE) | 0 | 2 | 0% | 1–2 | 1–2 | 1–2 | 1–2 |
-| Lëtzebuerger Sozialistesch Aarbechterpartei (S&D) | 0 | 1 | 0% | 1 | 1 | 1 | 1 |
-| Alternativ Demokratesch Reformpartei (ECR) | 0 | 0 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
-| Piratepartei Lëtzebuerg (Greens/EFA) – Volt Lëtzebuerg (Greens/EFA) – déi gréng (Greens/EFA) | 0 | 1 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
+| Lëtzebuerger Sozialistesch Aarbechterpartei (S&D) | 0 | 1 | 0% | 1 | 1–2 | 1–2 | 1–2 |
+| Alternativ Demokratesch Reformpartei (ECR) | 0 | 1 | 0% | 1 | 1 | 1 | 0–1 |
+| Piratepartei Lëtzebuerg (Greens/EFA) – Volt Lëtzebuerg (Greens/EFA) – déi gréng (Greens/EFA) | 0 | 0 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
 | Demokratie (*) – Déi Konservativ (*) – Fokus (*) – Kommunistesch Partei Lëtzebuerg (*) – Liberté – Fräiheet! (*) – Partei fir Integral Demokratie (*) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 | déi Lénk (GUE/NGL) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 
@@ -486,8 +486,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 77% | 100% | Median |
-| 3 | 23% | 23% |  |
+| 2 | 99.8% | 100% | Median |
+| 3 | 0.2% | 0.2% |  |
 | 4 | 0% | 0% | Majority |
 
 ### Demokratesch Partei (RE)
@@ -497,8 +497,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 47% | 100% |  |
-| 2 | 53% | 53% | Median |
+| 1 | 17% | 100% |  |
+| 2 | 83% | 83% | Median |
 | 3 | 0% | 0% |  |
 
 ### Lëtzebuerger Sozialistesch Aarbechterpartei (S&D)
@@ -508,8 +508,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 99.8% | 100% | Median |
-| 2 | 0.2% | 0.2% |  |
+| 1 | 94% | 100% | Median |
+| 2 | 6% | 6% |  |
 | 3 | 0% | 0% |  |
 
 ### Alternativ Demokratesch Reformpartei (ECR)
@@ -518,8 +518,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 57% | 100% | Last Result, Median |
-| 1 | 43% | 43% |  |
+| 0 | 2% | 100% | Last Result |
+| 1 | 98% | 98% | Median |
 | 2 | 0% | 0% |  |
 
 ### Piratepartei Lëtzebuerg (Greens/EFA) – Volt Lëtzebuerg (Greens/EFA) – déi gréng (Greens/EFA)
@@ -528,8 +528,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 18% | 100% | Last Result |
-| 1 | 82% | 82% | Median |
+| 0 | 88% | 100% | Last Result, Median |
+| 1 | 12% | 12% |  |
 | 2 | 0% | 0% |  |
 
 ### Demokratie (*) – Déi Konservativ (*) – Fokus (*) – Kommunistesch Partei Lëtzebuerg (*) – Liberté – Fräiheet! (*) – Partei fir Integral Demokratie (*)
@@ -552,6 +552,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 1
-+ **Lowest number of simulations done in a poll included in this average:** 2,097,152
-+ **Total number of simulations done in the polls included in this average:** 2,097,152
-+ **Error estimate:** 1.71%
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 1,048,576
++ **Error estimate:** 1.66%
