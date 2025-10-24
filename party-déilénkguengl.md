@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.8% | 4.2–5.5% | 4.0–5.7% | 3.9–5.8% | 3.6–6.2% |
+| N/A | [Poll Average](average.html) | 6.0% | 5.3–6.7% | 5.1–6.9% | 4.9–7.1% | 4.6–7.5% |
+| [15–29 September 2025](2025-09-29-Ilres.html) | Ilres <br> Luxemburger Wort and RTL | 5.9% | 5.3–6.7% | 5.1–6.9% | 4.9–7.1% | 4.6–7.5% |
 | [8–24 April 2025](2025-04-24-Ilres.html) | Ilres <br> Luxemburger Wort and RTL | 4.8% | 4.2–5.5% | 4.0–5.7% | 3.9–5.9% | 3.6–6.2% |
 | [23–30 September 2024](2024-09-30-Ilres.html) | Ilres <br> Luxemburger Wort and RTL | 3.7% | 3.2–4.3% | 3.0–4.5% | 2.9–4.6% | 2.7–5.0% |
 
@@ -23,12 +24,13 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0.3% | 100% |  |
-| 3.5–4.5% | 30% | 99.7% |  |
-| 4.5–5.5% | 62% | 70% | Median |
-| 5.5–6.5% | 8% | 8% |  |
-| 6.5–7.5% | 0.1% | 0.1% |  |
-| 7.5–8.5% | 0% | 0% |  |
+| 2.5–3.5% | 0% | 100% |  |
+| 3.5–4.5% | 0.3% | 100% |  |
+| 4.5–5.5% | 23% | 99.7% |  |
+| 5.5–6.5% | 63% | 77% | Median |
+| 6.5–7.5% | 14% | 14% |  |
+| 7.5–8.5% | 0.4% | 0.4% |  |
+| 8.5–9.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -40,6 +42,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [15–29 September 2025](2025-09-29-Ilres.html) | Ilres <br> Luxemburger Wort and RTL | 0 | 0 | 0 | 0 | 0 |
 | [8–24 April 2025](2025-04-24-Ilres.html) | Ilres <br> Luxemburger Wort and RTL | 0 | 0 | 0 | 0 | 0 |
 | [23–30 September 2024](2024-09-30-Ilres.html) | Ilres <br> Luxemburger Wort and RTL | 0 | 0 | 0 | 0 | 0 |
 

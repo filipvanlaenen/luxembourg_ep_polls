@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17.9% | 16.8–19.1% | 16.5–19.4% | 16.2–19.7% | 15.7–20.3% |
+| N/A | [Poll Average](average.html) | 18.7% | 17.6–19.9% | 17.2–20.2% | 17.0–20.5% | 16.4–21.1% |
+| [15–29 September 2025](2025-09-29-Ilres.html) | Ilres <br> Luxemburger Wort and RTL | 18.7% | 17.5–19.9% | 17.2–20.2% | 17.0–20.5% | 16.4–21.1% |
 | [8–24 April 2025](2025-04-24-Ilres.html) | Ilres <br> Luxemburger Wort and RTL | 17.9% | 16.8–19.1% | 16.5–19.4% | 16.2–19.7% | 15.7–20.3% |
 | [23–30 September 2024](2024-09-30-Ilres.html) | Ilres <br> Luxemburger Wort and RTL | 20.0% | 18.8–21.2% | 18.5–21.6% | 18.2–21.9% | 17.7–22.5% |
 
@@ -35,14 +36,15 @@ The following table shows the probability mass function per percentage block of 
 | 11.5–12.5% | 0% | 100% |  |
 | 12.5–13.5% | 0% | 100% |  |
 | 13.5–14.5% | 0% | 100% |  |
-| 14.5–15.5% | 0.3% | 100% |  |
-| 15.5–16.5% | 5% | 99.7% |  |
-| 16.5–17.5% | 27% | 94% |  |
-| 17.5–18.5% | 42% | 67% | Median |
-| 18.5–19.5% | 21% | 25% |  |
-| 19.5–20.5% | 4% | 4% |  |
-| 20.5–21.5% | 0.2% | 0.2% |  |
-| 21.5–22.5% | 0% | 0% |  |
+| 14.5–15.5% | 0% | 100% |  |
+| 15.5–16.5% | 0.7% | 100% |  |
+| 16.5–17.5% | 9% | 99.3% |  |
+| 17.5–18.5% | 33% | 90% |  |
+| 18.5–19.5% | 39% | 57% | Median |
+| 19.5–20.5% | 15% | 18% |  |
+| 20.5–21.5% | 2% | 2% |  |
+| 21.5–22.5% | 0.1% | 0.1% |  |
+| 22.5–23.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -53,7 +55,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 1 |
+| N/A | [Poll Average](average.html) | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| [15–29 September 2025](2025-09-29-Ilres.html) | Ilres <br> Luxemburger Wort and RTL | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [8–24 April 2025](2025-04-24-Ilres.html) | Ilres <br> Luxemburger Wort and RTL | 1 | 1 | 1 | 1 | 1 |
 | [23–30 September 2024](2024-09-30-Ilres.html) | Ilres <br> Luxemburger Wort and RTL | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 
@@ -66,8 +69,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 99.8% | 100% | Median |
-| 2 | 0.2% | 0.2% |  |
+| 1 | 94% | 100% | Median |
+| 2 | 6% | 6% |  |
 | 3 | 0% | 0% |  |
 
 
