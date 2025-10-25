@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/luxembourg_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 24 Oct 2025 18:05:50 +0200</pubDate>
+    <pubDate>Sat, 25 Oct 2025 09:33:48 +0200</pubDate>
     <item>
       <title>Opinion Poll by Ilres for Luxemburger Wort and RTL, 15–29 September 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/luxembourg_ep_polls/2025-09-29-Ilres.html#seats</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/luxembourg_ep_polls/2025-09-29-Ilres-seats.png"
         length="306756"
         type="image/png"/>
-      <pubDate>Fri, 24 Oct 2025 18:05:50 +0200</pubDate>
-      <dc:date>2025-10-24T18:05:50.15226+02:00</dc:date>
+      <pubDate>Sat, 25 Oct 2025 09:33:48 +0200</pubDate>
+      <dc:date>2025-10-25T09:33:48.814066+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ilres for Luxemburger Wort and RTL, 15–29 September 2025 – Seat Projections for a Selection of Coalitions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/luxembourg_ep_polls/2025-09-29-Ilres-coalitions-seats.png"
         length="146300"
         type="image/png"/>
-      <pubDate>Fri, 24 Oct 2025 18:05:50 +0200</pubDate>
-      <dc:date>2025-10-24T18:05:50.15226+02:00</dc:date>
+      <pubDate>Sat, 25 Oct 2025 09:33:48 +0200</pubDate>
+      <dc:date>2025-10-25T09:33:48.814066+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ilres for Luxemburger Wort and RTL, 15–29 September 2025 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/luxembourg_ep_polls/2025-09-29-Ilres.png"
         length="382961"
         type="image/png"/>
-      <pubDate>Fri, 24 Oct 2025 18:05:50 +0200</pubDate>
-      <dc:date>2025-10-24T18:05:50.15226+02:00</dc:date>
+      <pubDate>Sat, 25 Oct 2025 09:33:48 +0200</pubDate>
+      <dc:date>2025-10-25T09:33:48.814066+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ilres for Luxemburger Wort and RTL, 8–24 April 2025 – Seat Projections for the Parties</title>
@@ -99,6 +99,6 @@
       <pubDate>Sun, 23 Mar 2025 10:11:50 +0100</pubDate>
       <dc:date>2025-03-23T10:11:50.579061+01:00</dc:date>
     </item>
-    <dc:date>2025-10-24T18:05:50.15226+02:00</dc:date>
+    <dc:date>2025-10-25T09:33:48.814066+02:00</dc:date>
   </channel>
 </rss>
