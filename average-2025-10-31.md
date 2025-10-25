@@ -304,7 +304,7 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#déi-gréng-(greens/efa)">déi gréng (Greens/EFA)</a> | 0 | 0 | 0–1 |0–1 | 0–1 | 0–1 |
 | <a href="#piratepartei-lëtzebuerg-(greens/efa)">Piratepartei Lëtzebuerg (Greens/EFA)</a> | 0 | 0 | 0 |0 | 0 | 0 |
 | <a href="#volt-lëtzebuerg-(greens/efa)">Volt Lëtzebuerg (Greens/EFA)</a> | 0 | 0 | 0 |0 | 0 | 0 |
-| <a href="#lëtzebuerger-sozialistesch-aarbechterpartei-(s&d)">Lëtzebuerger Sozialistesch Aarbechterpartei (S&D)</a> | 0 | 1 | 1 |1–2 | 1–2 | 1–2 |
+| <a href="#lëtzebuerger-sozialistesch-aarbechterpartei-(s&d)">Lëtzebuerger Sozialistesch Aarbechterpartei (S&D)</a> | 0 | 1 | 1–2 |1–2 | 1–2 | 1–2 |
 | <a href="#demokratesch-partei-(re)">Demokratesch Partei (RE)</a> | 0 | 2 | 1–2 |1–2 | 1–2 | 1–2 |
 | <a href="#chrëschtlech-sozial-vollekspartei-(epp)">Chrëschtlech-Sozial Vollekspartei (EPP)</a> | 0 | 2 | 2 |2 | 2 | 2 |
 | <a href="#alternativ-demokratesch-reformpartei-(ecr)">Alternativ Demokratesch Reformpartei (ECR)</a> | 0 | 1 | 1 |1 | 1 | 0–1 |
@@ -333,8 +333,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 88% | 100% | Last Result, Median |
-| 1 | 12% | 12% |  |
+| 0 | 82% | 100% | Last Result, Median |
+| 1 | 18% | 18% |  |
 | 2 | 0% | 0% |  |
 
 ### Piratepartei Lëtzebuerg (Greens/EFA)
@@ -366,8 +366,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 94% | 100% | Median |
-| 2 | 6% | 6% |  |
+| 1 | 85% | 100% | Median |
+| 2 | 15% | 15% |  |
 | 3 | 0% | 0% |  |
 
 ### Demokratesch Partei (RE)
@@ -379,8 +379,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 17% | 100% |  |
-| 2 | 83% | 83% | Median |
+| 1 | 32% | 100% |  |
+| 2 | 68% | 68% | Median |
 | 3 | 0% | 0% |  |
 
 ### Chrëschtlech-Sozial Vollekspartei (EPP)
@@ -393,8 +393,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 99.8% | 100% | Median |
-| 3 | 0.2% | 0.2% |  |
+| 2 | 99.7% | 100% | Median |
+| 3 | 0.3% | 0.3% |  |
 | 4 | 0% | 0% | Majority |
 
 ### Alternativ Demokratesch Reformpartei (ECR)
@@ -472,7 +472,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Chrëschtlech-Sozial Vollekspartei (EPP) | 0 | 2 | 0% | 2 | 2 | 2 | 2 |
 | Demokratesch Partei (RE) | 0 | 2 | 0% | 1–2 | 1–2 | 1–2 | 1–2 |
-| Lëtzebuerger Sozialistesch Aarbechterpartei (S&D) | 0 | 1 | 0% | 1 | 1–2 | 1–2 | 1–2 |
+| Lëtzebuerger Sozialistesch Aarbechterpartei (S&D) | 0 | 1 | 0% | 1–2 | 1–2 | 1–2 | 1–2 |
 | Alternativ Demokratesch Reformpartei (ECR) | 0 | 1 | 0% | 1 | 1 | 1 | 0–1 |
 | Piratepartei Lëtzebuerg (Greens/EFA) – Volt Lëtzebuerg (Greens/EFA) – déi gréng (Greens/EFA) | 0 | 0 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
 | Demokratie (*) – Déi Konservativ (*) – Fokus (*) – Kommunistesch Partei Lëtzebuerg (*) – Liberté – Fräiheet! (*) – Partei fir Integral Demokratie (*) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
@@ -486,8 +486,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 99.8% | 100% | Median |
-| 3 | 0.2% | 0.2% |  |
+| 2 | 99.7% | 100% | Median |
+| 3 | 0.3% | 0.3% |  |
 | 4 | 0% | 0% | Majority |
 
 ### Demokratesch Partei (RE)
@@ -497,8 +497,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 17% | 100% |  |
-| 2 | 83% | 83% | Median |
+| 1 | 32% | 100% |  |
+| 2 | 68% | 68% | Median |
 | 3 | 0% | 0% |  |
 
 ### Lëtzebuerger Sozialistesch Aarbechterpartei (S&D)
@@ -508,8 +508,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 94% | 100% | Median |
-| 2 | 6% | 6% |  |
+| 1 | 85% | 100% | Median |
+| 2 | 15% | 15% |  |
 | 3 | 0% | 0% |  |
 
 ### Alternativ Demokratesch Reformpartei (ECR)
@@ -528,8 +528,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 88% | 100% | Last Result, Median |
-| 1 | 12% | 12% |  |
+| 0 | 82% | 100% | Last Result, Median |
+| 1 | 18% | 18% |  |
 | 2 | 0% | 0% |  |
 
 ### Demokratie (*) – Déi Konservativ (*) – Fokus (*) – Kommunistesch Partei Lëtzebuerg (*) – Liberté – Fräiheet! (*) – Partei fir Integral Demokratie (*)
@@ -552,6 +552,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 1
-+ **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 1,048,576
-+ **Error estimate:** 1.66%
++ **Lowest number of simulations done in a poll included in this average:** 2,097,152
++ **Total number of simulations done in the polls included in this average:** 2,097,152
++ **Error estimate:** 1.74%
