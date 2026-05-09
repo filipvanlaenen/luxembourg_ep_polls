@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.3% | 0.1–0.4% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% |
+| N/A | [Poll Average](average.html) | 0.6% | 0.4–0.9% | 0.4–1.0% | 0.3–1.1% | 0.3–1.2% |
+| [13–24 April 2026](2026-04-24-ILRES.html) | ILRES <br> Luxemburger Wort and RTL | 0.6% | 0.4–0.9% | 0.4–1.0% | 0.3–1.1% | 0.3–1.2% |
 | [15–29 September 2025](2025-09-29-Ilres.html) | Ilres <br> Luxemburger Wort and RTL | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.1–0.6% | 0.0–0.7% |
 | [8–24 April 2025](2025-04-24-Ilres.html) | Ilres <br> Luxemburger Wort and RTL | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.1–0.6% | 0.0–0.7% |
 | [23–30 September 2024](2024-09-30-Ilres.html) | Ilres <br> Luxemburger Wort and RTL | 0.3% | 0.2–0.6% | 0.2–0.6% | 0.1–0.7% | 0.1–0.8% |
@@ -21,8 +22,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 97% | 100% | Last Result, Median |
-| 0.5–1.5% | 3% | 3% |  |
+| 0.0–0.5% | 33% | 100% | Last Result |
+| 0.5–1.5% | 67% | 67% | Median |
 | 1.5–2.5% | 0% | 0% |  |
 
 
@@ -35,6 +36,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [13–24 April 2026](2026-04-24-ILRES.html) | ILRES <br> Luxemburger Wort and RTL | 0 | 0 | 0 | 0 | 0 |
 | [15–29 September 2025](2025-09-29-Ilres.html) | Ilres <br> Luxemburger Wort and RTL | 0 | 0 | 0 | 0 | 0 |
 | [8–24 April 2025](2025-04-24-Ilres.html) | Ilres <br> Luxemburger Wort and RTL | 0 | 0 | 0 | 0 | 0 |
 | [23–30 September 2024](2024-09-30-Ilres.html) | Ilres <br> Luxemburger Wort and RTL | 0 | 0 | 0 | 0 | 0 |
