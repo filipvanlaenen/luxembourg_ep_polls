@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/luxembourg_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 09 May 2026 13:57:34 +0200</pubDate>
+    <pubDate>Sat, 09 May 2026 19:17:52 +0200</pubDate>
     <item>
       <title>Opinion Poll by ILRES for Luxemburger Wort and RTL, 13–24 April 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/luxembourg_ep_polls/2026-04-24-ILRES.html#seats</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/luxembourg_ep_polls/2026-04-24-ILRES-seats.png"
         length="348159"
         type="image/png"/>
-      <pubDate>Sat, 09 May 2026 13:57:34 +0200</pubDate>
-      <dc:date>2026-05-09T13:57:34.934449+02:00</dc:date>
+      <pubDate>Sat, 09 May 2026 19:17:52 +0200</pubDate>
+      <dc:date>2026-05-09T19:17:52.979698+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by ILRES for Luxemburger Wort and RTL, 13–24 April 2026 – Seat Projections for a Selection of Coalitions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/luxembourg_ep_polls/2026-04-24-ILRES-coalitions-seats.png"
         length="161763"
         type="image/png"/>
-      <pubDate>Sat, 09 May 2026 13:57:34 +0200</pubDate>
-      <dc:date>2026-05-09T13:57:34.934449+02:00</dc:date>
+      <pubDate>Sat, 09 May 2026 19:17:52 +0200</pubDate>
+      <dc:date>2026-05-09T19:17:52.979698+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by ILRES for Luxemburger Wort and RTL, 13–24 April 2026 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/luxembourg_ep_polls/2026-04-24-ILRES.png"
         length="390448"
         type="image/png"/>
-      <pubDate>Sat, 09 May 2026 13:57:34 +0200</pubDate>
-      <dc:date>2026-05-09T13:57:34.934449+02:00</dc:date>
+      <pubDate>Sat, 09 May 2026 19:17:52 +0200</pubDate>
+      <dc:date>2026-05-09T19:17:52.979698+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ilres for Luxemburger Wort and RTL, 15–29 September 2025 – Seat Projections for the Parties</title>
@@ -129,6 +129,6 @@
       <pubDate>Sun, 23 Mar 2025 10:11:50 +0100</pubDate>
       <dc:date>2025-03-23T10:11:50.579061+01:00</dc:date>
     </item>
-    <dc:date>2026-05-09T13:57:34.934449+02:00</dc:date>
+    <dc:date>2026-05-09T19:17:52.979698+02:00</dc:date>
   </channel>
 </rss>
