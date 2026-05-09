@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/luxembourg_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 25 Oct 2025 09:33:48 +0200</pubDate>
+    <pubDate>Sat, 09 May 2026 13:57:34 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by ILRES for Luxemburger Wort and RTL, 13–24 April 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/luxembourg_ep_polls/2026-04-24-ILRES.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Volt Lëtzebuerg (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Lëtzebuerger Sozialistesch Aarbechterpartei (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Chrëschtlech-Sozial Vollekspartei (EPP): 1–2 seats&lt;/li&gt;&lt;li&gt;Alternativ Demokratesch Reformpartei (ECR): 1 seats&lt;/li&gt;&lt;li&gt;Kommunistesch Partei Lëtzebuerg (*): 0 seats&lt;/li&gt;&lt;li&gt;Piratepartei Lëtzebuerg (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;déi Lénk (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Fokus (*): 0 seats&lt;/li&gt;&lt;li&gt;Liberté – Fräiheet! (*): 0 seats&lt;/li&gt;&lt;li&gt;Déi Konservativ (*): 0 seats&lt;/li&gt;&lt;li&gt;déi gréng (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Demokratesch Partei (RE): 1–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/luxembourg_ep_polls/2026-04-24-ILRES-seats.png"
+        length="348159"
+        type="image/png"/>
+      <pubDate>Sat, 09 May 2026 13:57:34 +0200</pubDate>
+      <dc:date>2026-05-09T13:57:34.934449+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by ILRES for Luxemburger Wort and RTL, 13–24 April 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/luxembourg_ep_polls/2026-04-24-ILRES.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/luxembourg_ep_polls/2026-04-24-ILRES-coalitions-seats.png"
+        length="161763"
+        type="image/png"/>
+      <pubDate>Sat, 09 May 2026 13:57:34 +0200</pubDate>
+      <dc:date>2026-05-09T13:57:34.934449+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by ILRES for Luxemburger Wort and RTL, 13–24 April 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/luxembourg_ep_polls/2026-04-24-ILRES.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Volt Lëtzebuerg (Greens/EFA): 0.3–1.1%&lt;/li&gt;&lt;li&gt;Lëtzebuerger Sozialistesch Aarbechterpartei (S&amp;amp;D): 19.1–22.8%&lt;/li&gt;&lt;li&gt;Chrëschtlech-Sozial Vollekspartei (EPP): 20.0–23.7%&lt;/li&gt;&lt;li&gt;Alternativ Demokratesch Reformpartei (ECR): 10.0–12.9%&lt;/li&gt;&lt;li&gt;Kommunistesch Partei Lëtzebuerg (*): 0.1–0.5%&lt;/li&gt;&lt;li&gt;Piratepartei Lëtzebuerg (Greens/EFA): 3.0–4.8%&lt;/li&gt;&lt;li&gt;déi Lénk (GUE/NGL): 4.8–7.0%&lt;/li&gt;&lt;li&gt;Fokus (*): 1.6–3.0%&lt;/li&gt;&lt;li&gt;Liberté – Fräiheet! (*): 1.5–2.9%&lt;/li&gt;&lt;li&gt;Déi Konservativ (*): 0.1–0.7%&lt;/li&gt;&lt;li&gt;déi gréng (Greens/EFA): 8.2–10.9%&lt;/li&gt;&lt;li&gt;Demokratesch Partei (RE): 19.6–23.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/luxembourg_ep_polls/2026-04-24-ILRES.png"
+        length="390448"
+        type="image/png"/>
+      <pubDate>Sat, 09 May 2026 13:57:34 +0200</pubDate>
+      <dc:date>2026-05-09T13:57:34.934449+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ilres for Luxemburger Wort and RTL, 15–29 September 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/luxembourg_ep_polls/2025-09-29-Ilres.html#seats</link>
@@ -99,6 +129,6 @@
       <pubDate>Sun, 23 Mar 2025 10:11:50 +0100</pubDate>
       <dc:date>2025-03-23T10:11:50.579061+01:00</dc:date>
     </item>
-    <dc:date>2025-10-25T09:33:48.814066+02:00</dc:date>
+    <dc:date>2026-05-09T13:57:34.934449+02:00</dc:date>
   </channel>
 </rss>
